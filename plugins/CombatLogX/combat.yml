@@ -1,0 +1,36 @@
+options:
+  broadcast enable message: true
+  log to file: true
+  log to console: false
+  check for updates: true
+  combat timer: 15
+  self combat: true
+  mobs:
+    combat: true
+    link pets: true
+    blacklist:
+    - PIG
+    - COW
+  remove combat on enemy death: false
+  bypass:
+    enable: true
+    permission: combatlogx.bypass
+  combat sudo:
+    enable: true
+    commands: []
+    console: []
+  disabled worlds: []
+punishment:
+  kill loggers: true
+  kick: false
+  quit:
+    enable: true
+    message: true
+  console:
+    enable: true
+    commands:
+    - eco take {player} 100
+    - mail send {player} You lost $100 due to logging out during combat!
+  sudo loggers:
+    enable: false
+    commands: []

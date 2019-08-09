@@ -1,0 +1,32 @@
+name: helpeur
+permissions:
+- essentials.afk.others
+- essentials.ban
+- essentials.broadcast
+- essentials.chat.color
+- essentials.chat.format
+- essentials.chat.ignoreexempt
+- essentials.chat.magic
+- essentials.chat.spy
+- essentials.chat.url
+- essentials.helpop.receive
+- essentials.jails
+- essentials.kick
+- essentials.mail.sendall
+- essentials.msg.color
+- essentials.msg.format
+- essentials.msg.magic
+- essentials.mute
+- essentials.mute.exempt
+- essentials.nick.magic
+- essentials.nick.other
+- essentials.spawn.others
+- essentials.tempban
+- essentials.thunder
+- essentials.togglejail
+- essentials.tpahere
+- essentials.warp.otherplayers
+- weight.6
+prefixes:
+- '&5[Helpeur] ':
+    priority: 5

@@ -1,0 +1,20 @@
+name: heros
+permissions:
+- essentials.back
+- essentials.back.ondeath
+- essentials.feed
+- essentials.joinfullserver
+- essentials.kits.chevalier:
+    value: false
+- essentials.kits.heros
+- essentials.repair
+- essentials.repair.all
+- essentials.repair.armor
+- essentials.sethome.multiple.hero
+- essentials.skull.others
+- weight.3
+parents:
+- chevalier
+prefixes:
+- '&e[H] ':
+    priority: 5

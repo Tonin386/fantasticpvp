@@ -1,0 +1,29 @@
+#----------------------------------------------------------------------------------------------------
+# Configuration file for PyrCore
+#----------------------------------------------------------------------------------------------------
+
+# Locale file
+
+locale: pyrcore_en_US.yml
+
+# MySQL identifiers (affects all plugins)
+
+mysql: 
+  enable: false
+  host: database.website.com
+  name: dbname
+  user: admin
+  pass: ''
+
+# Enable MySQL stats ? (affects all plugins)
+# Either if you do or don't enable this option, stats will be stored on the plugin files.
+
+mysql_stats: false
+
+# Enable auto-update notifications ? (affects all plugins)
+# Set this option to 'true' is recommended ! If you disable this, you'll not be able to get the latest updates/bug fixes notifications.
+
+auto_update: true
+
+# Show debug console messages
+show_debug: true

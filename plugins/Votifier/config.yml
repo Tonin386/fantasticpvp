@@ -1,0 +1,4 @@
+host: 188.165.250.28
+port: 32512
+debug: false
+listener_folder: plugins/Votifier/listeners

@@ -1,0 +1,25 @@
+# Locale : hu_HU
+
+# Messages
+ 
+messages: 
+  error_no_permission: '&cNincs jogod ehhez.'
+  error_in_game: '&cEhhez be kell játszani a játékot.'
+  error_invalid_number: '&cÉrvénytelen szám : ''$ERROR''.'
+  error_invalid_player: '&cIsmeretlen játékos : ''$ERROR''.'
+  error_player_offline: '&cOffline játékos : ''$ERROR''.'
+  error_arg_size: '&cÉrvénytelen szöveges argumentumméret : ''$ERROR''.'
+  error_unknown: '&cIsmeretlen szöveg.'
+  error_command_unknown: '&cHiba történt az érvek feldolgozása során. Talán rosszul használja a parancsot. Legközelebbi parancs :'
+  error_command_closest: '&c$COMMAND'
+  admin_plugin_not_found: '&4PyrCore >> &cEz a bővítmény nem található. Elérhető pluginok : /pyr plugins'
+  admin_plugins_amount: '&7PyrCore >> Ez a kiszolgáló rendelkezik $AMOUNT pluginnal$PLURAL akik használják a PyrCore-t.'
+  admin_plugins_list_element: '&7  >> &a$NAME &7verzió &a$VERSION'
+  plugin_reload_start: '&2$PLUGIN >> &a$PLAYER : újraindítás...'
+  plugin_reload_end: '&2$PLUGIN >> &a$PLAYER : az újratöltés befejeződött !'
+  command_help: '&2$PLUGIN >> Elérhető parancsok :'
+  empty_list: '&7Itt nincs mit látni.'
+  time_format_s: '$SECSs'
+  time_format_ms: '$MINSm$SECSs'
+  time_format_hms: '$HRSh$MINSm$SECSs'
+  time_format_dhms: '$DAYSd $HRSh $MINSm $SECSs'

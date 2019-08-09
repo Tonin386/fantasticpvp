@@ -1,0 +1,9 @@
+name: fondateur
+permissions:
+- '*'
+- weight.9
+parents:
+- admin
+prefixes:
+- '&4&l[FONDA-DEV] ':
+    priority: 5

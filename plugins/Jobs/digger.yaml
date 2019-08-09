@@ -1,0 +1,125 @@
+#Old digger jon
+
+  Digger:
+    fullname: Digger
+    shortname: D
+    description: Earns money for terraforming the world.
+    ChatColour: GOLD
+    chat-display: full
+    max-level: 200
+    #slots: 10
+    leveling-progression-equation: 10*(joblevel)+(joblevel*joblevel*4)
+    income-progression-equation: baseincome+(baseincome*(joblevel-1)*0.01)-((baseincome+(joblevel-1)*0.01) * ((numjobs-1)*0.05))
+    points-progression-equation: basepoints+(basepoints*(joblevel-1)*0.01)-((basepoints+(joblevel-1)*0.01) * ((numjobs-1)*0.05))
+    experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
+    rejoinCooldown: 604800
+    Gui:
+      Id: 269
+      Data: 0
+    Break:
+      '179':
+        income: 1
+        points: 1
+        experience: 1
+      DIRT:
+        income: 0.25
+        points: 0.25
+        experience: 0.25
+      GRASS:
+        income: 0.3
+        points: 0.3
+        experience: 0.3
+      GRAVEL:
+        income: 1
+        points: 1
+        experience: 1.0
+      SAND:
+        income: 0.4
+        points: 0.4
+        experience: 0.5
+      CLAY:
+        income: 1
+        points: 1
+        experience: 1.0
+      '159':
+        income: 1
+        points: 1
+        experience: 1.0
+    Kill:
+      Player:
+        income: 7.5
+        points: 7.5
+        experience: 7.5
+    commands:
+      kitII:
+        command: lp user [player] permission set essentials.kits.[jobname]II
+        levelFrom: 10
+        levelUntil: 10
+      kitIII:
+        command: lp user [player] permission set essentials.kits.[jobname]III
+        levelFrom: 25
+        levelUntil: 25
+      kiIV:
+        command: lp user [player] permission set essentials.kits.[jobname]IV
+        levelFrom: 50
+        levelUntil: 50
+      kitV:
+        command: lp user [player] permission set essentials.kits.[jobname]V
+        levelFrom: 100
+        levelUntil: 100
+      kitVI:
+        command: lp user [player] permission set essentials.kits.[jobname]VI
+        levelFrom: 200
+        levelUntil: 200
+      rewardI: #Random loot boxes for this class 40-45
+          command: givebox [player] 40 1
+          levelFrom: 2
+          levelUntil: 9
+      rewardII: #Random loot boxes for this class 40-45
+          command: givebox [player] 41 1
+          levelFrom: 10
+          levelUntil: 24
+      rewardIII: #Random loot boxes for this class 40-45
+          command: givebox [player] 42 1
+          levelFrom: 25
+          levelUntil: 49
+      rewardVI: #Random loot boxes for this class 40-45
+          command: givebox [player] 43 1
+          levelFrom: 50
+          levelUntil: 99
+      rewardV: #Random loot boxes for this class 40-45
+          command: givebox [player] 44 1
+          levelFrom: 100
+          levelUntil: 199
+      rewardVI:
+          command: givebox [player] 45 1
+          levelFrom: 200
+          levelUntil: 200
+    cmd-on-join:
+    - 'lp user [name] permission set essentials.kits.[jobname]I'
+    cmd-on-leave:
+    - 'lp user [name] permission unset essentials.kits.[jobname]I'
+    - 'lp user [name] permission unset essentials.kits.[jobname]II'
+    - 'lp user [name] permission unset essentials.kits.[jobname]III'
+    - 'lp user [name] permission unset essentials.kits.[jobname]IV'
+    - 'lp user [name] permission unset essentials.kits.[jobname]V'
+    - 'lp user [name] permission unset essentials.kits.[jobname]VI'
+   
+  DiggerI:
+    delay: 10800
+    items:
+  DiggerII:
+    delay: 10800
+    items:
+  DiggerIII:
+    delay: 10800
+    items:
+  DiggerIV:
+    delay: 10800
+    items:
+  DiggerV:
+    delay: 10800
+    items:
+  DiggerVI:
+    delay: 10800
+    items:

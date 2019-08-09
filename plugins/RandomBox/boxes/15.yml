@@ -1,0 +1,58 @@
+boxName: '&6Bûcheron VI'
+
+boxItem: LOG
+
+lore:
+- '&eUne boîte obtenue'
+- '&epar un bûcheron VI'
+- '&7--------------'
+- 'items 0 &7%ordinal%. &ex%amount% %name%'
+- '&7--------------'
+- '&eBoîte rare'
+
+checkPermission: false
+
+openWhenClicked: true
+
+addGlow: true
+
+unstackable: false
+
+gui:
+  enabled: true
+  rolling:
+  - {delay: 1, iterations: 50}
+  - {delay: 2, iterations: 20}
+  - {delay: 3, iterations: 10}
+  - {delay: 4, iterations: 5}
+  window:
+    type: CHEST
+    format:
+    - '@@@@#@@@@'
+    - 'abcdEfghi'
+    - '@@@@#@@@@'
+    fillers:
+      '@':
+        item: {id: 160, data: 15, delay: 20}
+        onStop:
+          item: {id: 0}
+      '#':
+        animated:
+        - {id: 160, data: 4, delay: 10}
+        - {id: 160, data: 5, delay: 10}
+
+effects:
+  open:
+    broadcast: '&b%player% &eouvre une &aBoîte du Bûcheron VI &e!'
+
+itemsToSelectCount: 1
+
+items:
+  item1:
+    item: DIAMOND_AXE
+    name: 'Hache en diamant enchantée de &aBûcheron VI'
+    amount: 1
+    enchants:
+      efficiency: 5
+      unbreaking: 5
+    chance: 100

@@ -1,0 +1,7 @@
+name: staff
+groups:
+- helpeur
+- builder
+- moderateur
+- admin
+- fondateur

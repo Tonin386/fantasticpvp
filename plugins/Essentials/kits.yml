@@ -1,0 +1,768 @@
+# EssentialsX new Kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - itemID[:DataValue/Durability] Amount [Enchantment:Level].. [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  Citoyen:
+    delay: 86400
+    items: 
+      - 306 1 protection:1
+      - 307 1 protection:1
+      - 308 1 protection:1
+      - 309 1 protection:1
+      - 267 1 sharpness:1
+      - 261 1
+      - 262 16
+      - 320 10
+  Chevalier:
+    delay: 86400
+    items:
+      - 310 1 protection:1
+      - 311 1 protection:1
+      - 312 1 protection:1
+      - 313 1 protection:1
+      - 276 1 sharpness:1
+      - 261 1 power:1
+      - 262 32
+      - 320 10
+  Heros:
+    delay: 86400
+    items:
+      - 310 1 protection:2
+      - 311 1 protection:2
+      - 312 1 protection:2
+      - 313 1 protection:2
+      - 276 1 sharpness:2
+      - 261 1 power:2
+      - 262 48
+      - 320 10
+  Legende:
+    delay: 86400
+    items:
+      - 310 1 protection:3
+      - 311 1 protection:3
+      - 312 1 protection:3
+      - 313 1 protection:3
+      - 276 1 sharpness:3
+      - 261 1 power:3
+      - 262 64
+      - 320 10
+  Dieu:
+    delay: 86400
+    items:
+      - 310 1 protection:4
+      - 311 1 protection:4
+      - 312 1 protection:4
+      - 313 1 protection:4
+      - 276 1 sharpness:4
+      - 261 1 power:4 infinity:1
+      - 262 64
+      - 320 10
+      - 322:0 1
+  BûcheronI:
+    delay: 10800
+    items:
+      - 5:0 10
+      - 5:1 10
+      - 5:2 10
+      - 6:0 2
+      - 6:1 2
+      - 6:2 2
+      - 351:15 2
+      - 271 1 efficiency:1
+  BûcheronII:
+    delay: 10800
+    items:
+      - 5:0 20
+      - 5:1 20
+      - 5:2 20
+      - 6:0 2
+      - 6:1 2
+      - 6:2 2
+      - 6:5 1
+      - 359 1
+      - 275 1 efficiency:1
+  BûcheronIII:
+    delay: 10800
+    items:
+      - 17:0 10
+      - 17:1 10
+      - 17:2 10
+      - 17:3 5
+      - 359 1 unbreaking:1
+      - 275 1 efficiency:2 unbreaking:1
+      - 18:0 32
+  BûcheronIV:
+    delay: 10800
+    items:
+      - 258 1 efficiency:2 unbreaking:2
+      - 17:1 16
+      - 17:2 16
+      - 17:3 16
+      - 162:0 16
+      - 162:1 16
+      - 6:0 5
+      - 6:1 5
+      - 6:2 5
+      - 6:3 5
+      - 6:4 5
+      - 6:5 5
+      - 260 3
+  BûcheronV:
+    delay: 10800
+    items:
+      - 258 1 efficiency:3 unbreaking:3
+      - 17:0 32
+      - 17:1 32
+      - 17:2 32
+      - 17:3 32
+      - 162:0 32
+      - 162:1 32
+      - 6:0 10
+      - 6:1 10
+      - 6:2 10
+      - 6:3 10
+      - 6:4 10
+      - 6:5 10
+      - 260 5
+      - 322:0 1
+  BûcheronVI:
+    delay: 10800
+    items:
+      - 279 1 efficiency:3 unbreaking:3
+      - 17:0 64
+      - 17:1 64
+      - 17:2 64
+      - 17:3 64
+      - 162:0 64
+      - 162:1 64
+      - 6:0 20
+      - 6:1 20
+      - 6:2 20
+      - 6:3 20
+      - 6:4 20
+      - 6:5 20
+      - 260 10
+      - 322:0 5
+      - 359 1 unbreaking:4
+  MineurI:
+    delay: 0
+    items:
+      - 270 1 efficiency:1
+      - 4 10
+      - 263:0 3
+      - 50 10
+      - 326 1
+  MineurII:
+    delay: 10800
+    items:
+      - 274 1 efficiency:1
+      - 4 20
+      - 263:0 5
+      - 265 2
+      - 50 16
+      - 326 1
+  MineurIII:
+    delay: 10800
+    items:
+      - 257 1 efficiency:1
+      - 1:0 20
+      - 263:0 10
+      - 265 5
+      - 266 2
+      - 50 32
+      - 66 10
+      - 326 1
+      - 327 1
+  MineurIV:
+    delay: 10800
+    items:
+      - 257 1 efficiency:2 unbreaking:1
+      - 1:0 32
+      - 263:0 20
+      - 265 10
+      - 266 5
+      - 264 1
+      - 50 48
+      - 66 20
+      - 27 3
+      - 326 1
+      - 327 1
+  MineurV:
+    delay: 10800
+    items:
+      - 278 1 efficiency:2 unbreaking:1
+      - 1:0 48
+      - 173 3
+      - 265 16
+      - 266 7
+      - 264 3
+      - 50 64
+      - 66 20
+      - 27 5
+      - 326 1
+      - 327 1
+      - 49 10
+      - 328 1
+  MineurVI:
+    delay: 10800
+    items:
+      - 278 1 efficiency:4 unbreaking:2
+      - 1:0 64
+      - 173 5
+      - 265 20
+      - 266 10
+      - 264 5
+      - 50 64
+      - 66 30
+      - 27 10
+      - 326 1
+      - 327 1
+      - 49 16
+      - 328 3
+  ConstructeurI:
+    delay: 10800
+    items:
+      - 1:0 32
+      - 1:2 32
+      - 1:4 32
+      - 1:6 32
+      - 58 4
+      - 61 4
+      - 54 2
+  ConstructeurII:
+    delay: 10800
+    items:
+      - 1:0 64
+      - 1:2 64
+      - 1:4 64
+      - 1:6 64
+      - 5:0 64
+      - 5:2 64
+      - 58 8
+      - 61 8
+      - 54 4
+  ConstructeurIII:
+    delay: 10800
+    items:
+      - 1:0 128
+      - 24:2 64
+      - 155:0 32
+      - 20 32
+      - 45 32
+      - 47 5
+  ConstructeurIV:
+    delay: 10800
+    items:
+      - 98:0 96
+      - 98:3 32
+      - 155:0 64
+      - 45 64
+      - 47 10
+      - 49 16
+  ConstructeurV:
+    delay: 10800
+    items:
+      - 98:0 128
+      - 98:3 64
+      - 155:0 96
+      - 45 64
+      - 47 15
+      - 49 24
+  ConstructeurVI:
+    delay: 10800
+    items:
+      - 98:0 192
+      - 98:3 64
+      - 155:0 128
+      - 45 64
+      - 47 20
+      - 49 32
+      - 138 1
+  FermierI:
+    delay: 10800
+    items:
+      - 290 1 unbreaking:1
+      - 295 8
+      - 352 1
+      - 338 3
+  FermierII:
+    delay: 10800
+    items:
+      - 291 1 unbreaking:1
+      - 295 16
+      - 361 2
+      - 296 5
+      - 383:90 2
+      - 352 2
+      - 325 1
+      - 85 8
+  FermierIII:
+    delay: 10800
+    items:
+      - 292 1 unbreaking:1
+      - 421 1
+      - 420 1
+      - 392 10
+      - 391 10
+      - 296 10
+      - 338 10
+      - 361 5
+      - 362 5
+      - 383:92 2 
+      - 85 16
+  FermierIV:
+    delay: 10800
+    items:
+      - 293 1 unbreaking:1
+      - 420 3
+      - 421 3
+      - 296 24
+      - 338 16
+      - 334 10
+      - 295 10
+      - 351:3 10
+      - 352 5
+      - 383:91 2
+      - 383:93 2
+      - 85 24
+  FermierV:
+    delay: 10800
+    items:
+      - 293 1 unbreaking:2
+      - 81 16
+      - 352 10
+      - 296 32
+      - 338 24
+      - 334 16
+      - 335 1
+      - 344 10
+      - 329 1
+      - 260 5
+      - 383:100 2
+      - 85 32
+  FermierVI:
+    delay: 10800
+    items:
+      - 293 1 unbreaking:3
+      - 420 5
+      - 421 5
+      - 352 20
+      - 335 3
+      - 260 10
+      - 329 2
+      - 383:96 5
+      - 383:100 3
+      - 85 48
+  ChasseurI:
+    delay: 10800
+    items:
+      - 268 1 smite:1 ardmg:1
+      - 261 1
+      - 262 5
+      - 299 1 projprot:1
+      - 297 2
+  ChasseurII:
+    delay: 10800
+    items:
+      - 272 1 smite:1 ardmg:1
+      - 261 1
+      - 262 15
+      - 298 1 expprot:1
+      - 303 1 projprot:2
+      - 300 1 protection:1
+      - 301 1 protection:1
+      - 297 3
+  ChasseurIII:
+    delay: 10800
+    items:
+      - 267 1 smite:1 ardmg:1
+      - 261 1 power:1
+      - 262 25
+      - 298 1 expprot:2
+      - 303 1 projprot:2 prot:1
+      - 300 1 protection:1 projprot:1
+      - 301 1 protection:1 projprot:1
+      - 297 5
+  ChasseurIV:
+    delay: 10800
+    items:
+      - 267 1 smite:2 ardmg:2
+      - 261 1 power:1 punch:1
+      - 262 35
+      - 302 1 expprot:2
+      - 303 1 projprot:2 prot:1
+      - 304 1 protection:1 projprot:1
+      - 305 1 protection:1 projprot:1
+      - 297 7
+  ChasseurV:
+    delay: 10800
+    items:
+      - 276 1 smite:2 ardmg:2 knockback:1
+      - 261 1 power:2 punch:1
+      - 262 45
+      - 306 1 expprot:2 prot:1
+      - 307 1 projprot:2 prot:1
+      - 308 1 protection:1 projprot:1
+      - 309 1 protection:1 projprot:1
+      - 297 8
+      - 335 1
+      - 373:8198 1
+  ChasseurVI:
+    delay: 10800
+    items:
+      - 276 1 smite:3 ardmg:3 knockback:2
+      - 261 1 power:3 punch:2 flame:1
+      - 262 64
+      - 306 1 protection:3 expprot:2
+      - 311 1 protection:3 projectileprotection:2
+      - 308 1 protection:3 projprot:1
+      - 309 1 protection:3 projprot:1
+      - 297 10
+      - 335 1
+      - 373:8262 1
+  ExplorateurI:
+    delay: 10800
+    items:
+      - 301 1 featherfalling:1
+      - 373:8194 1
+      - 326 1
+      - 320 5
+  ExplorateurII:
+    delay: 10800
+    items:
+      - 301 1 featherfalling:2
+      - 373:8194 2
+      - 373:8226 1
+      - 326 1
+      - 320 7
+  ExplorateurIII:
+    delay: 10800
+    items:
+      - 309 1 featherfalling:2
+      - 373:8194 3
+      - 373:8226 2
+      - 373:8258 1
+      - 326 1
+      - 320 7
+  ExplorateurIV:
+    delay: 10800
+    items:
+      - 313 1 featherfalling:2
+      - 373:8194 4
+      - 373:8226 3
+      - 373:8258 2
+      - 326 1
+      - 320 10
+      - 368 2
+      - 443 1
+  ExplorateurV:
+    delay: 10800
+    items:
+      - 313 1 featherfalling:3
+      - 373:8194 4
+      - 373:8226 4
+      - 373:8258 3
+      - 326 1
+      - 320 15
+      - 368 5
+      - 443 1
+  ExplorateurVI:
+    delay: 10800
+    items:
+      - 313 1 featherfalling:4
+      - 373:8194 5
+      - 373:8226 5
+      - 373:8258 5
+      - 326 1
+      - 320 20
+      - 368 8
+      - 443 1
+  FabriquantI:
+    delay: 10800
+    items:
+      - 5:0 10
+      - 4 10
+      - 334 5
+      - 351:1 2
+      - 351:2 2
+      - 351:11 2
+  FabriquantII:
+    delay: 10800
+    items:
+      - 5:0 20
+      - 4 15
+      - 280 10
+      - 334 7
+      - 288 3
+      - 318 3
+      - 351:1 3
+      - 351:2 3
+      - 351:11 3
+  FabriquantIII:
+    delay: 10800
+    items:
+      - 265 5
+      - 318 5
+      - 280 20
+      - 334 10
+      - 339 15
+      - 287 10
+      - 4 32
+  FabriquantIV:
+    delay: 10800
+    items:
+      - 12:0 32
+      - 4 48
+      - 280 32
+      - 287 20
+      - 318 20
+      - 288 20
+      - 334 15
+      - 264 2
+      - 265 7
+      - 266 5
+  FabriquantV:
+    delay: 10800
+    items:
+      - 12:0 48
+      - 4 64
+      - 280 48
+      - 287 30
+      - 318 30
+      - 288 30
+      - 334 25
+      - 264 3
+      - 265 10
+      - 266 7
+      - 369 1
+  FabriquantVI:
+    delay: 10800
+    items:
+      - 12:0 64
+      - 4 64
+      - 280 64
+      - 287 32
+      - 318 32
+      - 288 32
+      - 334 32
+      - 264 5
+      - 265 16
+      - 266 10
+      - 369 2
+      - 399 1
+  ForgeronI:
+    delay: 10800
+    items:
+      - 272:80 1
+      - 267:200 1
+      - 265 5
+      - 280 5
+      - 306:100 1
+      - 307:100 1
+      - 308:100 1
+      - 309:100 1
+  ForgeronII:
+    delay: 10800
+    items:
+      - 272:70 1
+      - 267:180 1
+      - 265 10
+      - 280 5
+      - 334 10
+      - 306:90 1
+      - 307:90 1
+      - 308:90 1
+      - 309:90 1
+      - 310:320 1
+  ForgeronIII:
+    delay: 10800
+    items:
+      - 272:30 1
+      - 267:120 1
+      - 265 12
+      - 280 5
+      - 334 10
+      - 266 1
+      - 306:150 2
+      - 307:150 2
+      - 308:150 2
+      - 309:150 2
+      - 310:300 1
+      - 312:350 1
+      - 313:350 1
+      - 264 2
+  ForgeronIV:
+    delay: 10800
+    items:
+      - 145:0 1
+      - 267:120 1
+      - 276:1200 1
+      - 265 18
+      - 280 5
+      - 334 10
+      - 266 2
+      - 306:150 2
+      - 307:150 2
+      - 308:150 2
+      - 309:150 2
+      - 310:300 1
+      - 311:350 1
+      - 312:350 1
+      - 313:350 1
+      - 264 3
+  ForgeronV:
+    delay: 10800
+    items:
+      - 145:0 1
+      - 267:120 2
+      - 276:1200 2
+      - 265 20
+      - 280 5
+      - 334 12
+      - 266 3
+      - 306:150 2
+      - 307:150 2
+      - 308:150 2
+      - 309:150 2
+      - 310:250 1
+      - 311:300 1
+      - 312:300 1
+      - 313:300 1
+      - 264 4
+  ForgeronVI:
+    delay: 10800
+    items:
+      - 145:0 1
+      - 267:120 3
+      - 276:1200 3
+      - 265 32
+      - 280 5
+      - 334 12
+      - 266 5
+      - 306:150 3
+      - 307:150 3
+      - 308:150 3
+      - 309:150 3
+      - 310:100 2
+      - 311:150 2
+      - 312:150 2
+      - 313:150 2
+      - 264 5
+  AlchimisteI:
+    delay: 10800
+    items:
+      - 379 1
+      - 374 3
+      - 372 1
+      - 348 1
+      - 289 1
+      - 377 1
+  AlchimisteII:
+    delay: 10800
+    items:
+      - 374 6
+      - 372 2
+      - 348 3
+      - 289 2
+      - 377 1
+      - 331 3
+      - 353 3
+  AlchimisteIII:
+    delay: 10800
+    items:
+      - 374 6
+      - 372 3
+      - 348 5
+      - 289 3
+      - 377 1
+      - 382 2
+      - 376 2
+      - 375 3
+  AlchimisteIV:
+    delay: 10800
+    items:
+      - 374 6
+      - 372 4
+      - 348 5
+      - 289 4
+      - 377 2
+      - 414 2
+      - 378 1
+      - 370 1
+  AlchimisteV:
+    delay: 10800
+    items:
+      - 374 6
+      - 372 5
+      - 289 3
+      - 375 3
+      - 377 3
+      - 370 3
+      - 331 5
+      - 348 5
+      - 382 3
+      - 376 3
+      - 378 2
+      - 396 2
+      - 414 2
+      - 437 1
+  AlchimisteVI:
+    delay: 10800
+    items:
+      - 374 6
+      - 372 6
+      - 289 4
+      - 375 4
+      - 377 4
+      - 370 4
+      - 331 6
+      - 348 6
+      - 382 4
+      - 376 4
+      - 378 3
+      - 396 3
+      - 414 3
+      - 437 2
+  EnchanteurI:
+    delay: 10800
+    items:
+      - 116 1
+      - 340 1
+      - 384 3
+  EnchanteurII:
+    delay: 10800
+    items:
+      - 340 3
+      - 384 5
+      - 47 1
+  EnchanteurIII:
+    delay: 10800
+    items:
+      - 340 3
+      - 384 8
+      - 47 3
+  EnchanteurIV:
+    delay: 10800
+    items:
+      - 340 3
+      - 384 10
+      - 47 4
+  EnchanteurV:
+    delay: 10800
+    items:
+      - 340 3
+      - 384 15
+      - 47 5
+  EnchanteurVI:
+    delay: 10800
+    items:
+      - 340 3
+      - 384 20
+      - 47 6

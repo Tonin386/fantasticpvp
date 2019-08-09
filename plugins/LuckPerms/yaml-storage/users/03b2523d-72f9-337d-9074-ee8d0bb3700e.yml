@@ -1,0 +1,7 @@
+uuid: 03b2523d-72f9-337d-9074-ee8d0bb3700e
+name: Lx3200
+primary-group: admin
+permissions:
+- essentials.kits.BûcheronI
+parents:
+- admin

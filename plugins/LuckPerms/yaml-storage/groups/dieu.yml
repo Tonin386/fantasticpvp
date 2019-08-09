@@ -1,0 +1,17 @@
+name: dieu
+permissions:
+- essentials.enderchest
+- essentials.heal
+- essentials.kits.dieu
+- essentials.kits.legende:
+    value: false
+- essentials.near
+- essentials.nick.format
+- essentials.sethome.multiple.god
+- jobs.max.3
+- weight.5
+parents:
+- legende
+prefixes:
+- '&d[&lD&r&d] ':
+    priority: 5

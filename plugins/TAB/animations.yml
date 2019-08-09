@@ -1,0 +1,122 @@
+animations:
+  MyAnimation1:
+    #in MILLISECONDS
+    change-interval: 50
+    texts:
+      - "&d-&3--------------"
+      - "&3-&d-&3-------------"
+      - "&3--&d-&3------------"
+      - "&3---&d-&3-----------"
+      - "&3----&d-&3----------"
+      - "&3-----&d-&3---------"
+      - "&3------&d-&3--------"
+      - "&3-------&d-&3-------"
+      - "&3--------&d-&3------"
+      - "&3---------&d-&3-----"
+      - "&3----------&d-&3----"
+      - "&3-----------&d-&3---"
+      - "&3------------&d-&3--"
+      - "&3-------------&d-&3-"
+      - "&3--------------&d-"
+      - "&3-------------&d-&3-"
+      - "&3------------&d-&3--"
+      - "&3-----------&d-&3---"
+      - "&3----------&d-&3----"
+      - "&3---------&d-&3-----"
+      - "&3--------&d-&3------"
+      - "&3-------&d-&3-------"
+      - "&3------&d-&3--------"
+      - "&3-----&d-&3---------"
+      - "&3----&d-&3----------"
+      - "&3---&d-&3-----------"
+      - "&3--&d-&3------------"
+      - "&3-&d-&3-------------"
+      - "&d-&3--------------"
+  web:
+    change-interval: 100
+    texts:
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&6w&eww.fantasticpvp.epizy.com"
+      - "&ew&6w&ew.fantasticpvp.epizy.com"
+      - "&eww&6w&e.fantasticpvp.epizy.com"
+      - "&ewww&6.&efantasticpvp.epizy.com"
+      - "&ewww.&6f&eantasticpvp.epizy.com"
+      - "&ewww.f&6a&entasticpvp.epizy.com"
+      - "&ewww.fa&6n&etasticpvp.epizy.com"
+      - "&ewww.fan&6t&easticpvp.epizy.com"
+      - "&ewww.fant&6a&esticpvp.epizy.com"
+      - "&ewww.fanta&6s&eticpvp.epizy.com"
+      - "&ewww.fantas&6t&eicpvp.epizy.com"
+      - "&ewww.fantast&6i&ecpvp.epizy.com"
+      - "&ewww.fantasti&6c&epvp.epizy.com"
+      - "&ewww.fantastic&6p&evp.epizy.com"
+      - "&ewww.fantasticp&6v&ep.epizy.com"
+      - "&ewww.fantasticpv&6p&e.epizy.com"
+      - "&ewww.fantasticpvp&6.&eepizy.com"
+      - "&ewww.fantasticpvp.&6e&epizy.com"
+      - "&ewww.fantasticpvp.e&6p&eizy.com"
+      - "&ewww.fantasticpvp.ep&6i&ezy.com"
+      - "&ewww.fantasticpvp.epi&6z&ey.com"
+      - "&ewww.fantasticpvp.epiz&6y&e.c&eom"
+      - "&ewww.fantasticpvp.epizy&6.&eco&em"
+      - "&ewww.fantasticpvp.epizy.&6c&eom"
+      - "&ewww.fantasticpvp.epizy.c&6o&em"
+      - "&ewww.fantasticpvp.epizy.co&6m"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+      - "&ewww.fantasticpvp.epizy.com"
+  online:
+    change-interval: 150
+    texts:
+      - "&7"
+      - "&7"
+      - "&b"
+      - "&7"
+      - "&7"
+      - "&b"
+      - "&b"
+      - "&b"
+      - "&b"
+      - "&7"
+      - "&7"
+      - "&b"
+      - "&7"
+  vote:
+    change-interval: 1000
+    texts:
+      - "&a/vote"
+      - "&b/vote"
+  Hi:
+    change-interval: 400
+    texts:
+      - "&uHello"
+      - "&lHello"
+  time:
+    change-interval: 500
+    texts:
+      - "&m"
+      - "&n"
+      - "&o"
+      - "&l"
+  ip-ping:
+    change-interval: 5000
+    texts:
+      - "&aPing: &2&n%ping%"
+      - "&7Your IP address: &8&l%ip%"
+  versions:
+    change-interval: 1000
+    texts:
+      - "Online players with MC 1.12.x : %version-group:1-12-x%"
+      - "Online players with MC 1.11.x : %version-group:1-11-x"
+      - "Online players with MC 1.10.x : %version-group:1-10-x"
+      - "Online players with MC 1.9.x : %version-group:1-9-x"
+      - "Online players with MC 1.8.x : %version-group:1-8-x"
+      - "Online players with MC 1.7.x : %version-group:1-7-x"

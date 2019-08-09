@@ -1,0 +1,18 @@
+name: legende
+permissions:
+- creativegates.create
+- essentials.feed.cooldown.bypass
+- essentials.keepexp
+- essentials.kits.heros:
+    value: false
+- essentials.kits.legend
+- essentials.nick
+- essentials.nick.color
+- essentials.repair.enchanted
+- essentials.sethome.multiple.legende
+- weight.4
+parents:
+- heros
+prefixes:
+- '&6[L] ':
+    priority: 5

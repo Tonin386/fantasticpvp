@@ -1,0 +1,20 @@
+name: chevalier
+permissions:
+- ChestShop.shop.create.*
+- essentials.firework
+- essentials.firework.fire
+- essentials.hat
+- essentials.kits.chevalier
+- essentials.sethome.multiple
+- essentials.sethome.multiple.knight
+- essentials.skull
+- essentials.skull.spawn
+- essentials.warps.vipshop
+- essentials.workbench
+- jobs.max.2
+- weight.2
+parents:
+- default
+prefixes:
+- '&b[C+] ':
+    priority: 5

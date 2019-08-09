@@ -1,0 +1,1177 @@
+MSG_GENERIC_NOPERMISSION:
+  en_US: '&6{plugin} >> &7You don''t have the permission to do this.'
+  es_ES: '&6{plugin} >> &7No posees permiso para realizar esto.'
+  fr_FR: '&6{plugin} >> &7Vous n''avez pas la permission de faire cela.'
+  hu_HU: '&6{plugin} >> &7Nincs jogod ehhez.'
+  it_IT: '&6{plugin} >> &7Non hai il permesso di farlo.'
+  zh_TW: '&6{plugin} >> &7你沒有權限這麼做'
+MSG_GENERIC_NOHANDITEM:
+  en_US: '&6{plugin} >> &7You have to hold an item in your hand.'
+  es_ES: '&6{plugin} >> &7Debes poseer un item en la mano'
+  fr_FR: '&6{plugin} >> &7Vous devez tenir un item dans votre main.'
+  hu_HU: '&6{plugin} >> &7Tartanod kell egy elemet a kezedben.'
+  it_IT: '&6{plugin} >> &7Devi tenere un oggetto in mano.'
+  zh_TW: '&6{plugin} >> &7你必須要把物品拿在手上'
+MSG_GENERIC_NOMONEY:
+  en_US: '&6{plugin} >> &7You need &c{money}$ &7but you only have &c{balance}$ &7in
+    your bank account.'
+  es_ES: '&6{plugin} >> &7Requieres &c{money}$ pero solo posees &c{balance}$ en tu'
+  fr_FR: '&6{plugin} >> &7Vous avez besoin de &c{money}$ &7mais vous avez seulement
+    &c{balance}$ &7dans votre compte en banque.'
+  hu_HU: '&6{plugin} >> &7Neked kell &c{money}$ &7de csak van &c{balance}$ &7a bank
+    fiókodban.'
+  it_IT: '&6{plugin} >> &7Hai bisogno di &c{money}$ &7ma hai solo &c{balance}$ &7a
+    nel tuo account.'
+  zh_TW: '&6{plugin} >> &7你需要 &c{money}$ &7但是你身上目前只剩 &c{balance}$'
+MSG_GENERIC_NOXPLEVEL:
+  en_US: '&6{plugin} >> &7You need &c{amount} LVL &7but you only have &c{balance}&7.'
+  fr_FR: '&6{plugin} >> &7Vous avez besoin de &c{amount} LVL &7mais vous avez seulement
+    &c{balance}&7.'
+  zh_TW: '&6{plugin} >> &7你需要 &c{amount} LVL &7但是你只有 &c{balance}$'
+MSG_GENERIC_NAMETAKEN:
+  en_US: '&6{plugin} >> &7Name &c{name} &7is already taken.'
+  es_ES: '&6{plugin} >> &7El nombre &c{name} &7 ya está en uso'
+  fr_FR: '&6{plugin} >> &7Le nom &c{name} &7est déjà utilisé.'
+  hu_HU: '&6{plugin} >> &7Név &c{name} &7már foglalt.'
+  it_IT: '&6{plugin} >> &7Il nome &c{name} &7è già in uso.'
+  zh_TW: '&6{plugin} >> &7名稱 &c{name} &7已經被使用了'
+MSG_GENERIC_IDTAKEN:
+  en_US: '&6{plugin} >> &7Id &c{id} &7is already taken.'
+  es_ES: '&6{plugin} >> &7La ID &c{id} ya está en uso'
+  fr_FR: '&6{plugin} >> &7L''id &c{id} &7est déjà utilisé.'
+  hu_HU: '&6{plugin} >> &7Id &c{id} &7már foglalt.'
+  it_IT: '&6{plugin} >> &7L''Id &c{id} &7è già in uso.'
+  zh_TW: '&6{plugin} >> &7ID &c{id} &7已被使用了'
+MSG_GENERIC_INVALIDPLAYER:
+  en_US: '&6{plugin} >> &7Couldn''t find online player &c{error}&7.'
+  es_ES: '&6{plugin} >> &7No se encontró al jugador conectado &c{error}&7.'
+  fr_FR: '&6{plugin} >> &7Impossible de trouver le joueur connecté &c{error}&7.'
+  hu_HU: '&6{plugin} >> &7A játékos &c{player} &7nem található.'
+  it_IT: '&6{plugin} >> &7Non è possibile trovare questo giocatore online &c{error}.'
+  zh_TW: '&6{plugin} >> &7找不到線上玩家 &c{error}'
+MSG_GENERIC_INVALIDPLAYEROFFLINE:
+  en_US: '&6{plugin} >> &7Player &c{error} &7is invalid.'
+  es_ES: '&6{plugin} >> &7El jugador &c{error} &7no es válido'
+  fr_FR: '&6{plugin} >> &7Le joueur &c{error} &7est invalide.'
+  hu_HU: '&6{plugin} >> &7A játékos &c{error} &7érvénytelen.'
+  it_IT: '&6{plugin} >> &7Il giocatore &c{error} &7non è valido.'
+  zh_TW: '&6{plugin} >> &7玩家 &c{error} &7不存在'
+MSG_GENERIC_INVALIDDOUBLE:
+  en_US: '&6{plugin} >> &7Decimal number &c{error} &7is invalid.'
+  es_ES: '&6{plugin} >> &7El número decimal &c{error} &7es inválido.'
+  fr_FR: '&6{plugin} >> &7Le nombre décimal &c{error} &7est invalide.'
+  hu_HU: '&6{plugin} >> &7Decimális szám &c{error} &7érvénytelen.'
+  it_IT: '&6{plugin} >> &7I numeri decimali &c{error} &7non sono validi.'
+  zh_TW: '&6{plugin} >> &7無效的十位數字 &c{error}'
+MSG_GENERIC_INVALIDINT:
+  en_US: '&6{plugin} >> &7Number &c{error} &7is invalid.'
+  es_ES: '&6{plugin} >> &7El número &c{error} &7no es inválido'
+  fr_FR: '&6{plugin} >> &7Le nombre &c{error} &7est invalide.'
+  hu_HU: '&6{plugin} >> &7Szám &c{error} &7érvénytelen.'
+  it_IT: '&6{plugin} >> &7Il numero &c{error} &7non è valido.'
+  zh_TW: '&6{plugin} >> &7無效的數字 &c{error}'
+MSG_GENERIC_INVALIDALPHANUMERIC:
+  en_US: '&6{plugin} >> &7Value &c{error} &7isn''t alphanumeric.'
+  es_ES: '&6{plugin} >> &7El valor &c{error} &7 no es alfanumérico.'
+  fr_FR: '&6{plugin} >> &7La valeur &c{error} &7n''est pas alphanumérique.'
+  hu_HU: '&6{plugin} >> &7Érték &c{error} &7nem alfanumerikus.'
+  it_IT: '&6{plugin} >> &7Il valore &c{error} &7non è alfanumerico.'
+  zh_TW: '&6{plugin} >> &7數值 &c{error} &7並不是英文字母'
+MSG_GENERIC_NOTPLAYER:
+  en_US: '&6{plugin} >> &7You have to be in-game to do this.'
+  es_ES: '&6{plugin} >> &7Debes estar en el juego para realizar esto'
+  fr_FR: '&6{plugin} >> &7Vous devez être en jeu pour faire cela.'
+  hu_HU: '&6{plugin} >> &7Ehhez a játékban kell játszani.'
+  it_IT: '&6{plugin} >> &7Devi essere in gioco per farlo.'
+  pl_PL: '&6{plugin} >> &7Musisz być w grze, aby to zrobić.'
+  zh_TW: '&6{plugin} >> &7你只能在遊戲內執行這項動作'
+MSG_GENERIC_INVALIDCROSSHAIRBLOCK:
+  en_US: '&6{plugin} >> &7You''re not pointing any block.'
+  es_ES: '&6{plugin} >> &7No estás apuntando a ningún bloque.'
+  fr_FR: '&6{plugin} >> &7Vous ne pointez aucun bloc.'
+  hu_HU: '&6{plugin} >> &7Nem nézel egy blokkra sem.'
+  it_IT: '&6{plugin} >> &7Non stai indicando alcun blocco.'
+  zh_TW: '&6{plugin} >> &7你並沒有指向任何方塊'
+MSG_GENERIC_INVALIDACTION:
+  en_US: '&6{plugin} >> &7This action is invalid or has expired.'
+  es_ES: '&6{plugin} >> &7Esta acción es invalida o ha expirado'
+  fr_FR: '&6{plugin} >> &7L''action est invalide ou a expiré.'
+  hu_HU: '&6{plugin} >> &7Ez a művelet érvénytelen vagy lejárt.'
+  it_IT: '&6{plugin} >> &7Questa azione non è valida o è scaduta.'
+  zh_TW: '&6{plugin} >> &7這是個無效的動作或是已經過期了'
+MSG_GENERIC_RELOAD:
+  en_US: '&6{plugin} >> &7Plugin was reloaded (took {time}).'
+  es_ES: '&6{plugin} >> &7Se ha vuelto a cargar el plugin (tardó {time}).'
+  fr_FR: '&6{plugin} >> &7Le plugin a été reload (took {time}).'
+  hu_HU: '&6{plugin} >> &7A plugin újratöltve (took {time}).'
+  it_IT: '&6{plugin} >> &7Il plugin è stato ricaricato (took {time}).'
+  zh_TW: '&6{plugin} >> &7插件重新讀取成功 (耗時: {time})'
+MSG_GENERIC_NOTHING:
+  en_US: '&6{plugin} >> &7There''s nothing to see here.'
+  es_ES: '&6{plugin} >> &7No hay nada que ver aquí'
+  fr_FR: '&6{plugin} >> &7Il n''y a rien à voir ici.'
+  hu_HU: '&6{plugin} >> &7Itt nincs mit látni.'
+  it_IT: '&6{plugin} >> &7Non c''è niente da vedere qui.'
+  pl_PL: '&6{plugin} >> &7Tu nic nie ma.'
+  zh_TW: '&6{plugin} >> &7這邊沒有任何東西'
+MSG_GENERIC_COOLDOWN:
+  en_US: '&6{plugin} >> &7You have to wait &c{time} &7to do this again.'
+  es_ES: '&6{plugin} >> &7Debes esperar &c{time} &7antes de realizar esto de nuevo'
+  fr_FR: '&6{plugin} >> &7Vous devez attendre &c{time} &7pour faire cela à nouveau.'
+  hu_HU: '&6{plugin} >> &7Meg kell várni &c{time}&7, hogy ezt újra elvégezhesse.'
+  it_IT: '&6{plugin} >> &7Devi aspettare &c{time}&7, per rifarlo.'
+  zh_TW: '&6{plugin} >> &7你必須要等待 &c{time} &7後才能再這麼做'
+MSG_GENERIC_COMMAND_DISABLED:
+  en_US: '&6{plugin} >> &7This command is disabled.'
+  es_ES: '&6{plugin} >> &7Comando desactivado.'
+  fr_FR: '&6{plugin} >> &7Cette commande est désactivée.'
+  hu_HU: '&6{plugin} >> &7Ez a parancs letiltva.'
+  it_IT: '&6{plugin} >> &7Questo comando è disabilitato.'
+  pl_PL: '&6{plugin} >> &7To polecenie jest wyłączone.'
+  ru_RU: '&6{plugin} >> &7Эта команда отключена.'
+  sv_FI: '&6{plugin} >> &7Tämä komento ei ole käytössä.'
+  zh_TW: '&6{plugin} >> &7這個指令已被關閉'
+MSG_GENERIC_COMMAND_NOCHILDREN:
+  en_US: '&6{plugin} >> &7You specified too many arguments, it should end after &c{current_path}&7.
+    Use &c{current_path} -help &7or &c-help:page &7and refer to tab completion to
+    show help.'
+  es_ES: '&6{plugin} >> &7Has especificado demasiadas variables, debería terminar'
+  fr_FR: '&6{plugin} >> &7Vous avez spécifié trop d''arguments, cela devrait s''arrêter
+    après &c{current_path}&7. Utilisez &c{current_path} -help &7ou &c-help:page &7and
+    refer to tab completion to show help.'
+  hu_HU: '&6{plugin} >> &7Túl sok argumentumot adtál meg, a &c{current_path}&7. Use
+    &c{current_path} -help &7or &c-help:page &7and refer to tab completion to show
+    help.'
+  it_IT: '&6{plugin} >> &7Hai inserito troppi argomenti, potrebbe finire dopo &c{current_path}&7.'
+  zh_TW: '&6{plugin} >> &7你輸入太多的參數了，在 &c{current_path} &7後就不應該輸入其他數值了。 使用 &c{current_path}'
+MSG_GENERIC_COMMAND_NOCHILDPERFORMED:
+  en_US: '&6{plugin} >> &7Couldn''t understand the arguments you specified after &c{current_path}&7.'
+  es_ES: '&6{plugin} >> &7No ha sido posible entender los parametros que has especificado'
+  fr_FR: '&6{plugin} >> &7Impossible de comprendre les arguments que vous avez spécifié
+    après &c{current_path}&7.'
+  hu_HU: '&6{plugin} >> &7Nem sikerült megérteni a &c{current_path}&7 után megadott
+    argumentumokat&7.'
+  it_IT: '&6{plugin} >> &7Non è possibile capire gli argomenti specificati dopo &c{current_path}&7..'
+  zh_TW: '&6{plugin} >> &7系統無法讀懂，你輸入的指令 &c{current_path} &7後面的參數'
+MSG_GENERIC_COMMAND_MISSINGPARAM:
+  en_US: '&6{plugin} >> &7You''re missing parameter &c{parameter}&7.'
+  es_ES: '&6{plugin} >> &7Te ha faltado el parámetro &c{parameter}&7.'
+  fr_FR: '&6{plugin} >> &7Il manque le paramètre &c{parameter}&7.'
+  hu_HU: '&6{plugin} >> &7A paraméter hiányzik &c{parameter}&7.'
+  it_IT: '&6{plugin} >> &7Hai mancato il parametro &c{parameter}&7.'
+  zh_TW: '&6{plugin} >> &7你似乎漏掉一些參數了 &c{parameter}'
+MSG_GENERIC_COMMAND_INVALIDALPHANUMERICPARAM:
+  en_US: '&6{plugin} >> &7Parameter &c{parameter} &7should be alphanumeric.'
+  es_ES: '&6{plugin} >> &7El parámetro &c{parameter} &7debería ser alfanumérico'
+  fr_FR: '&6{plugin} >> &7Le paramètre &c{parameter} &7devrait être alphanumérique.'
+  hu_HU: '&6{plugin} >> &7A paraméter &c{parameter} &7alfanumerikusnak kell lennie.'
+  it_IT: '&6{plugin} >> &7Il parametro &c{parameter} &7deve essere alfanumerico.'
+  zh_TW: '&6{plugin} >> &7參數 &c{parameter} &7字母'
+MSG_GENERIC_COMMAND_INVALIDINTPARAM:
+  en_US: '&6{plugin} >> &7Parameter &c{parameter} &7should be a number.'
+  es_ES: '&6{plugin} >> &7El parámetro &c{parameter} &7 debería ser un número''  '
+  fr_FR: '&6{plugin} >> &7Le paramètre &c{parameter} &7devrait être un nombre entier.'
+  hu_HU: '&6{plugin} >> &7A paraméter &c{parameter} &7számnak kell lennie.'
+  it_IT: '&6{plugin} >> &7Il parametro &c{parameter} &7dovrebbe essere un numero.'
+  zh_TW: '&6{plugin} >> &7參數 &c{parameter} &7必須要是 數字'
+MSG_GENERIC_COMMAND_INVALIDDOUBLEPARAM:
+  en_US: '&6{plugin} >> &7Parameter &c{parameter} &7should be a decimal number.'
+  es_ES: '&6{plugin} >> &7El parámetro &c{parameter} &7 debería ser un número decimal''  '
+  fr_FR: '&6{plugin} >> &7Le paramètre &c{parameter} &7devrait être un nombre décimal.'
+  hu_HU: '&6{plugin} >> &7A paraméter &c{parameter} &7tizedes számnak kell lennie.'
+  it_IT: '&6{plugin} >> &7Il parametro &c{parameter} &7dovrebbe essere un numero decimale.'
+  zh_TW: '&6{plugin} >> &7參數 &c{parameter} &7必須要是 十位數字'
+MSG_GENERIC_COMMAND_INVALIDENUMPARAM:
+  en_US: '&6{plugin} >> &7Parameter &c{parameter} &7should be a valid &c{enum}&7.'
+  es_ES: '&6{plugin} >> &7El parámetro &c{parameter} &7debería ser un &c{enum}&7 válido.'
+  fr_FR: '&6{plugin} >> &7Le paramètre &c{parameter} &7devrait être un &c{enum} &7valide.'
+  hu_HU: '&6{plugin} >> &7A paraméter &c{parameter} &7érvényesnek kell lennie &c{enum}&7.'
+  it_IT: '&6{plugin} >> &7Il parametro &c{parameter} &7deve essere un numero valido
+    &c{enum}&7.'
+  zh_TW: '&6{plugin} >> &7參數 &c{parameter} &7必須是 &c{enum}'
+MSG_GENERIC_COMMAND_INVALIDOFFLINEPLAYERPARAM:
+  en_US: '&6{plugin} >> &7Parameter &c{parameter} &7should be an existing player.'
+  es_ES: '&6{plugin} >> &7El parámetro &c{parameter} &7debería ser un jugador existente'
+  fr_FR: '&6{plugin} >> &7Le paramètre &c{parameter} &7devrait être un joueur existant.'
+  hu_HU: '&6{plugin} >> &7A paraméter &c{parameter} &7létező játékosnak kell lennie.'
+  it_IT: '&6{plugin} >> &7Il parametro &c{parameter} &7dovrebbe essere un giocatore
+    esistente.'
+  zh_TW: '&6{plugin} >> &7參數 &c{parameter} &7必須是登入過的玩家'
+MSG_GENERIC_COMMAND_INVALIDPLAYERPARAM:
+  en_US: '&6{plugin} >> &7Parameter &c{parameter} &7should be an online player.'
+  es_ES: '&6{plugin} >>'
+  fr_FR: '&6{plugin} >> &7Le paramètre &c{parameter} &7devrait être un joueur connecté.'
+  hu_HU: '&6{plugin} >> &7A paraméter &c{parameter} &7elérhető játékosnak kell lennie.'
+  it_IT: '&6{plugin} >> &7Il parametro &c{parameter} &7dovrebbe essere un giocatore
+    online.'
+  zh_TW: '&6{plugin} >> &7參數 &c{parameter} &7必須是線上玩家'
+MSG_GENERIC_COMMAND_INVALIDUUIDPARAM:
+  en_US: '&6{plugin} >> &7Parameter &c{parameter} &7should be an UUID.'
+  es_ES: '&6{plugin} >> &7El parámetro &c{parameter} &7 debería ser un UUID.'
+  fr_FR: '&6{plugin} >> &7Le paramètre &c{parameter} &7devrait être un UUID.'
+  hu_HU: '&6{plugin} >> &7A paraméter &c{parameter} &7UUD-nek kell lennie.'
+  it_IT: '&6{plugin} >> &7Il parametro &c{parameter} &7dovrebbe essere un UUID.'
+  zh_TW: '&6{plugin} >> &7參數 &c{parameter} &7必須是 UUID'
+MSG_GCORE_INVALIDPLUGINPARAM:
+  en_US: '&6{plugin} >> &7Parameter &c{parameter} &7should be a plugin registered
+    with GCore.'
+  es_ES: '&6{plugin} >> &7El parámetro &c{parameter} &7 debería ser un plugin registrado'
+  fr_FR: '&6{plugin} >> &7Le paramètre &c{parameter} &7devrait être un plugin enregistré
+    avec GCore.'
+  hu_HU: '&6{plugin} >> &7A paraméter &c{parameter} &7a GCore-ban regisztrált bővítménynek
+    kell lennie.'
+  it_IT: '&6{plugin} >> &7Il parametro &c{parameter} &7a dovrebbe essere un plugin
+    registrato con GCore.'
+  zh_TW: '&6{plugin} >> &7參數 &c{parameter} &7必須是和 Gcore 連動的插件'
+MSG_GCORE_PLUGINSLIST:
+  en_US:
+  - '&6{plugin} >> &7There are &a{count} plugin{plural} &7registered :'
+  - '&a{plugins}'
+  es_ES:
+  - '&6{plugin} >> &7Hay &a{count} plugin{plural} &7registrados :'
+  - '&a{plugins}'
+  fr_FR:
+  - '&6{plugin} >> &7Il y a &a{count} plugin{plural} &7enregistrés :'
+  - '&a{plugins}'
+  hu_HU:
+  - '&6{plugin} >> &7Van &a{count} plugin{plural} &7regisztrálva :'
+  - '&a{plugins}'
+  it_IT:
+  - '&6{plugin} >> &7Ci sono &a{count} plugin{plural} &7registrati :'
+  - '&a{plugins}'
+  zh_TW:
+  - '&6Gcore >> &7目前有 &a{count} &7個載入的插件:'
+  - '&a{plugins}'
+MISC_GENERIC_TIMEFORMATSECONDS:
+  en_US: '{seconds}s'
+  es_ES: '{seconds}s'
+  hu_HU: '{seconds}m'
+  it_IT: '{seconds}s'
+  zh_TW: '{seconds}秒'
+MISC_GENERIC_TIMEFORMATMINUTES:
+  en_US: '{minutes}m {seconds}s'
+  es_ES: '{minutes}m {seconds}s'
+  hu_HU: '{minutes}p {seconds}m'
+  it_IT: '{minutes}m {seconds}m'
+  zh_TW: '{minutes}分 {seconds}秒'
+MISC_GENERIC_TIMEFORMATHOURS:
+  en_US: '{hours}h {minutes}m {seconds}s'
+  es_ES: '{hours}h {minutes}m {seconds}s'
+  hu_HU: '{hours}ó {minutes}p {seconds}m'
+  it_IT: '{hours}h {minutes}m {seconds}s'
+MISC_GENERIC_TIMEFORMATDAYS:
+  en_US: '{days}d {hours}h {minutes}m {seconds}s'
+  es_ES: '{days}d {hours}h {minutes}m {seconds}s'
+  hu_HU: '{days}n {hours}ó {minutes}p {seconds}m'
+  it_IT: '{days}d {hours}h {minutes}m {seconds}s'
+MISC_GENERIC_DAY_MONDAY:
+  en_US: Monday
+  fr_FR: lundi
+  zh_TW: 星期一
+MISC_GENERIC_DAY_TUESDAY:
+  en_US: Tuesday
+  fr_FR: mardi
+  zh_TW: 星期二
+MISC_GENERIC_DAY_WEDNESDAY:
+  en_US: Wednesday
+  fr_FR: mercredi
+  zh_TW: 星期三
+MISC_GENERIC_DAY_THURSDAY:
+  en_US: Thursday
+  fr_FR: jeudi
+  zh_TW: 星期四
+MISC_GENERIC_DAY_FRIDAY:
+  en_US: Friday
+  fr_FR: vendredi
+  zh_TW: 星期五
+MISC_GENERIC_DAY_SATURDAY:
+  en_US: Saturday
+  fr_FR: samedi
+  zh_TW: 星期六
+MISC_GENERIC_DAY_SUNDAY:
+  en_US: Sunday
+  fr_FR: dimanche
+  zh_TW: 星期日
+GUI_GENERIC_PREVIOUSPAGEITEM:
+  en_US: '&6Previous page'
+  es_ES: '&7Página previa'
+  fr_FR: '&6Page précédente'
+  hu_HU: '&6Előző oldal'
+  it_IT: '&6Pagina precedente'
+  zh_TW: '&6上一頁'
+GUI_GENERIC_NEXTPAGEITEM:
+  en_US: '&6Next page'
+  es_ES: '&6Página siguiente'
+  fr_FR: '&6Page suivante'
+  hu_HU: '&6Következő oldal'
+  it_IT: '&6Pagina successiva'
+  zh_TW: '&6下一頁'
+GUI_GENERIC_CONFIRMNAME:
+  en_US: Confirm action
+  es_ES: Confirmar acción
+  fr_FR: Confirmer action
+  hu_HU: Megerősít akció
+  it_IT: Conferma azione
+  zh_TW: 確認動作
+MSG_GENERIC_DUPLICATEELEMENT:
+  en_US: '&7An element with id &6{id} &7already exists.'
+  es_ES: '&7Un elemento con la id &6{id} &7ya existe'
+  fr_FR: '&7Un élément avec l''id &6{id} &7existe déjà.'
+  it_IT: '&7Un elemento con l''id &6{id} &7esiste già.'
+  zh_TW: '&7ID &6{id} &7材質已存在'
+MSG_GENERIC_CHATINPUT:
+  en_US: '&7Type the new value or &ccancel &7to cancel.'
+  es_ES: '&7Escriba un nuevo valor o &ccancel &7para cancelar.'
+  fr_FR: '&7Entrez une nouvelle valeur ou bien &ccancel &7pour annuler.'
+  it_IT: '&7Digita un nuovo valore o &ccancel &7per annullare.'
+  zh_TW: '&7輸入一個新的數值，或是輸入 &ccancel &7取消'
+MSG_GENERIC_CHATINPUTMODIFY:
+  en_US: '&7Type the new value or &ccancel &7to cancel. Click on this message to add
+    the existing text.'
+  fr_FR: '&7Entrez une nouvelle valeur ou bien &ccancel &7pour annuler. Cliquez sur
+    ce message pour ajouter le texte existant.'
+  zh_TW:
+  - '&7輸入一個新的數值，或是輸入 &ccancel &7取消'
+  - '&7(點擊這個訊息將原本的文字貼在輸入區)'
+MSG_GENERIC_CHATINPUTID:
+  en_US: '&7Enter an &aID &7in the chat or &ccancel &7to cancel.'
+  es_ES: '&7Inserte la &aID &7en el chat o &ccancel para cancelar'
+  fr_FR: '&7Entrez un &aID &7dans le chat ou &ccancel &7pour annuler.'
+  it_IT: '&7Inserisci un &aID &7in chat o &ccancel &7per annullare.'
+  zh_TW: '&7輸入一個 &aID &7，或是輸入 &ccancel &7取消'
+MSG_GENERIC_LOCATIONINPUT:
+  en_US: '&7Press ''sneak'' when you''re ready to import your location, or right-click
+    a block.'
+  es_ES: '&7Presione ''sneak'' cuando esté listo para importar su localización, o
+    presione'
+  fr_FR: '&7Appuyez sur ''s''accroupir'' lorsque vous serez prêt à importer votre
+    location, ou bien cliquez sur un bloc.'
+  it_IT: '&7Premere ''sneak'' quando sei pronto a importare la tua posizione, o tasto
+    destro su un blocco.'
+  zh_TW: '&7站到你要儲存的做標點按下&fSHIFT&7或是&f右鍵點選&7一個方塊'
+MSG_GENERIC_ITEMINPUT:
+  en_US: '&7Press ''drop'' when you''re ready to import the item in your hand.'
+  es_ES: '&7Presione ''drop'' cuando esté listo para importar el item de su mano.'
+  fr_FR: '&7Appuyez sur ''jeter l''objet'' lorsque vous serez prêt à importer l''item
+    dans votre main.'
+  it_IT: '&7Premere ''drop'' quando sei pronto a importare gli oggetti nella tua mano.'
+  zh_TW: '&7將你要匯入的物品拿在手上，並按下鍵盤的 &fQ '
+MSG_GENERIC_ITEMHEADDATABASEINPUT:
+  en_US: '&7Enter the HeadDatabase item ID in the chat or &ccancel &7to cancel.'
+  es_ES: '&7Escriba la ID del item de la base de datos de cabezas en el chat, o &ccancel'
+  fr_FR: '&7Entrez l''ID de l''item HeadDatabase dans le chat ou &ccancel &7pour annuler.'
+  zh_TW: '&7輸入一個 &a物品ID &7，或是輸入 &ccancel &7取消'
+MSG_GENERIC_DELETEELEMENT:
+  en_US: '&7Click on the element that you wish to delete (cancel by closing the GUI).'
+  es_ES: '&7Haga click en el elemento que desea borrar (cancele mediante el cierre'
+  fr_FR: '&7Cliquez sur l''élement que vous souhaitez supprimer (annulez en fermant
+    le GUI).'
+  zh_TW: '&7點擊圖示刪除你想刪除的物品，或是&c關閉GUI&7取消'
+GUI_GENERIC_EDITORITEMDELETESELF:
+  en_US: '&6Reset'
+  es_ES: '&6Reiniciar'
+  fr_FR: '&6Réinitialiser'
+  it_IT: '&6Resetta'
+  zh_TW: '&6重置'
+GUI_GENERIC_EDITORITEMDELETESELFLORE:
+  en_US:
+  - '&c&lThis action is irreversible'
+  - '&cClick this icon to reset every'
+  - '&c setting of this element'
+  es_ES:
+  - '&c&lEsta acción es irreversible!'
+  - '&cHaga click en el icono para reiniciar'
+  - '&c todas las configuraciones de este elemento'
+  fr_FR:
+  - '&c&lCette action est irréversible'
+  - '&cCliquez sur cette icône pour'
+  - '&c réinitialiser chaque paramètre de'
+  - '&c cet élément'
+  it_IT:
+  - '&c&lQuesta azione è irreversibile'
+  - '&cClicca questa icona per resettare'
+  - '&ctutte le impostazioni di questo'
+  - '&celemento'
+  zh_TW:
+  - '&c&l這個動作是不可復原的'
+  - '&c點擊這個選項 &6重置所有'
+  - '&c在這個介面的選項'
+GUI_GENERIC_EDITORITEMBACK:
+  en_US: '&7Back'
+  es_ES: '&7Volver'
+  fr_FR: '&7Retour'
+  it_IT: '&7Indietro'
+  zh_TW: '&7上一頁'
+GUI_GENERIC_EDITORITEMADD:
+  en_US: '&6Add'
+  es_ES: '&6Añadir'
+  fr_FR: '&6Ajouter'
+  it_IT: '&6Aggiungi'
+  zh_TW: '&6新增'
+GUI_GENERIC_EDITORITEMADDNUMBER:
+  en_US: '&6Add number'
+  es_ES: '&6Añadir número'
+  fr_FR: '&6Ajouter un nombre'
+  zh_TW: '&6新增數字'
+GUI_GENERIC_EDITORITEMADDENTITYNAMED:
+  en_US: '&6Add named entity'
+  es_ES: '&6Añadir el nombre de la entidad'
+  fr_FR: '&6Ajouter une entité nommée'
+  zh_TW: '&6新增生物名稱'
+GUI_GENERIC_EDITORITEMDELETE:
+  en_US: '&6Delete'
+  es_ES: '&6Eliminar'
+  fr_FR: '&6Supprimer'
+  it_IT: '&6Elimina'
+  zh_TW: '&6刪除'
+GUI_GENERIC_EDITORITEMDELETELORE:
+  en_US:
+  - '&c&lThis action is irreversible'
+  - '&cClick this icon, then the element'
+  - '&c that you wish to delete'
+  es_ES:
+  - '&c&lEstá acción es irreversible!'
+  - '&cHaga click en el icono, y después en el elemento'
+  - '&c que desee borrar'
+  fr_FR:
+  - '&c&lCette action est irréversible'
+  - '&cCliquez sur cette icône, ensuite sur'
+  - '&c l''élement que vous souhaitez supprimer'
+  it_IT:
+  - '&c&lQuesta azione è irreversibile'
+  - '&cClicca su questa icona, poi sull''elemento'
+  - '&c che desideri eliminare'
+  zh_TW:
+  - '&c&l這個動作是不可復原的'
+  - '&c點擊這個選項 然後點擊'
+  - '&c在這個介面你要刪除的物品'
+GUI_GENERIC_EDITORCURRENTLORE:
+  en_US:
+  - ''
+  - '&5Mandatory value : &d{mandatory}'
+  - '&5Value type : &d{type}'
+  - ''
+  - '&5Current value :'
+  - '&e{current}'
+  es_ES:
+  - ''
+  - '&5Valor requerido : &d{mandatory}'
+  - '&5Tipo de valor : &d{type}'
+  - ''
+  - '&5Valor actual :'
+  - '&e{current}'
+  fr_FR:
+  - ''
+  - ''
+  - '&5Valeur obligatoire : &d{mandatory}'
+  - '&5Type de valeur : &d{type}'
+  - ''
+  - '&5Valeur actuelle :'
+  - '&e{current}'
+  it_IT:
+  - ''
+  - '&a&lClicca per modificare'
+  - ''
+  - '&5Valore obbligatorio : &d{value_mandatory}'
+  - '&5Tipo di valore: &d{value_type}'
+  - ''
+  - '&5Valore attuale:'
+  - '&e{value_current'
+  zh_TW:
+  - ''
+  - '&5必須要設定 : &d{mandatory}'
+  - '&5數值類型 : &d{type}'
+  - ''
+  - '&5當前數值 :'
+  - '&e{current}'
+GUI_GENERIC_EDITORRAW:
+  en_US: '&6Raw value'
+  es_ES: '&6Valor original'
+  fr_FR: '&6Valeur brute'
+  it_IT: '&6Valore originale'
+  zh_TW: '&6原始數值'
+GUI_GENERIC_EDITORRAWLORE:
+  en_US:
+  - '&7Edit the raw value (it will be parsed'
+  - '&7 for a player when needed)'
+  - ''
+  - '{placeholders}'
+  es_ES:
+  - '&7Edite el valor original (será analizado para un'
+  - '&7 jugador cuando sea necesario)'
+  - ''
+  - '{placeholders}'
+  fr_FR:
+  - '&7Éditer la valeur brute (elle sera'
+  - '&7 convertie pour un joueur quand nécessaire)'
+  - ''
+  - '{placeholders}'
+  it_IT:
+  - '&7Modifica il valore originale (sarà analizzato'
+  - '&7per un giocatore quando sarà necessario)'
+  - '{placeholders}'
+  zh_TW:
+  - '&7編輯原始數值'
+  - ''
+  - '{placeholders}'
+GUI_GENERIC_EDITORTYPERAW:
+  en_US: '&6Raw type value'
+  es_ES: '&6Valor del tipo original'
+  fr_FR: '&6Valeur brute de type'
+  it_IT: '&6Valore originale non trovato'
+  zh_TW: '&6原始數值類型'
+GUI_GENERIC_EDITORTEXTLINELORE:
+  en_US:
+  - '&e{current}'
+  - ''
+  - '&7Edit the raw value (it will be parsed'
+  - '&7 for a player when needed)'
+  - ''
+  - '{placeholders}'
+  - '&7Change colors with &{code}'
+  - ''
+  - '&a&lLeft-click to edit'
+  - '&a&lRight-click to delete'
+  es_ES:
+  - '&e{current}'
+  - ''
+  - '&7Edite el valor original (será analizado para'
+  - '&7 un jugador cuando sea necesario)'
+  - ''
+  - '{placeholders}'
+  - '&7Cambie los colores con &{code}'
+  - ''
+  - '&a&lHaga click izquierdo para editar'
+  - '&a&lHaga click derecho para borrar'
+  fr_FR:
+  - '&e{current}'
+  - ''
+  - '&7Éditer la valeur brute (elle sera convertie pour un joueur quand nécessaire)'
+  - ''
+  - '{placeholders}'
+  - '&7Change colors with &{code}'
+  - ''
+  - '&a&lClic gauche pour éditer'
+  - '&a&lClic droit pour supprimer'
+  it_IT:
+  - '&e{current}'
+  - ''
+  - '&7Modifica il valore originale (sarà analizzato '
+  - '&7per un giocatore quando sarà necessario)'
+  - '{placeholders}'
+  - ''
+  - '&7Cambia il colore con &{code}'
+  - ''
+  - '&a&lTasto sinistro per modificare'
+  - '&a&lTasto destro per eliminare'
+  - ''
+  - '&a&l'
+  - ''
+  - '&5Valore obbligatorio: &d{value_mandatory}'
+  - '&5Tipo di valore: &d{value_type}'
+  - ''
+  - '&5Valore attuale:'
+  - '&d{value_current'
+GUI_GENERIC_EDITORLISTELEMENTLORE:
+  en_US:
+  - '&e{current}'
+  - ''
+  - '&a&lLeft-click to edit'
+  - '&a&lRight-click to delete'
+  es_ES:
+  - '&e{current}'
+  - ''
+  - '&a&lHaga click izquierdo para editar'
+  - '&a&lHaga click derecho para borrar'
+  fr_FR:
+  - '&e{current}'
+  - ''
+  - '&a&lClic gauche pour éditer'
+  - '&a&lClic droit pour supprimer'
+  zh_TW:
+  - '&e{current}'
+  - ''
+  - '&f右鍵點擊 &a編輯'
+  - '&f左鍵點擊 &c刪除'
+GUI_GENERIC_EDITORBOOLEANTOGGLE:
+  en_US: '&6Toggle'
+  es_ES: '&6Cambiar'
+  fr_FR: '&6Basculer'
+  it_IT: '&6Disabilita'
+  zh_TW: '&6切換'
+GUI_GENERIC_EDITORBOOLEANTOGGLELORE:
+  en_US: '&7Set the value to true/false'
+  es_ES: '&7Defina el valor como verdadero/falso'
+  fr_FR: '&7Définir la valeur sur vrai/faux'
+  it_IT: '&7Imposta il valore su vero/falso'
+  zh_TW: '&7將數值設定為 &atrue &7或是 &cfalse'
+GUI_GENERIC_EDITORNUMBERADD:
+  en_US: '&a+{amount}'
+  es_ES: '&a+{amount}'
+  zh_TW: '&a+{amount}'
+GUI_GENERIC_EDITORNUMBERTAKE:
+  en_US: '&c-{amount}'
+  es_ES: '&c-{amount}'
+  zh_TW: '&c-{amount}'
+GUI_GENERIC_EDITORNUMBERADDTAKELORE:
+  en_US: '&7Click to apply'
+  es_ES: '&7Haga click para aplicar'
+  fr_FR: '&7Cliquez pour appliquer'
+  zh_TW: '&7點擊新增'
+GUI_GENERIC_EDITORLOCATIONIMPORT:
+  en_US: '&6Select'
+  es_ES: '&6Seleccionar'
+  fr_FR: '&6Sélectionner'
+  it_IT: '&6Seleziona'
+  zh_TW: '&6選擇'
+GUI_GENERIC_EDITORLOCATIONIMPORTLORE:
+  en_US: '&7Import a value (place or block)'
+  es_ES: '&7Importe el valor (colocar o bloquear)'
+  fr_FR: '&7Importer une valeur (endroit ou bloc)'
+  it_IT: '&7Importa un valore (place o blocco)'
+  zh_TW: '&7輸入一個數值'
+GUI_GENERIC_EDITORITEMIMPORT:
+  en_US: '&6Select'
+  es_ES: '&6Seleccionar'
+  fr_FR: '&6Sélectionner'
+  it_IT: '&6Seleziona'
+  zh_TW: '&6選擇'
+GUI_GENERIC_EDITORITEMIMPORTLORE:
+  en_US: '&7Import a value (item)'
+  es_ES: '&7Importe el valor (item)'
+  fr_FR: '&7Importer une valeur (item)'
+  it_IT: '&7Importa un valore (item)'
+  zh_TW: '&7輸入一個數值 (物品)'
+GUI_GENERIC_EDITORITEMIMPORTHEADDATABASE:
+  en_US: '&6Select (HeadDatabase)'
+  es_ES: '&6Seleccionar (HeadDatabase)'
+  fr_FR: '&6Sélectionner (HeadDatabase)'
+  it_IT: '&6Seleziona (HeadDatabase)'
+  zh_TW: '&6選擇 (HeadDatabase)'
+GUI_GENERIC_EDITORITEMIMPORTHEADDATABASELORE:
+  en_US: '&7Import a value (item) from HeadDatabase'
+  es_ES: '&7Importe el valor (item) de la base de datos de cabezas.'
+  fr_FR: '&7Importer une valeur (item) from HeadDatabase'
+  it_IT: '&7Importa un valore (item) from HeadDatabase'
+  zh_TW: '&7匯入一個數值 (物品)'
+GUI_GENERIC_EDITORENUMSELECT:
+  en_US: '&6Select'
+  es_ES: '&6Seleccionar'
+  fr_FR: '&6Sélectionner'
+  it_IT: '&6Seleziona'
+  zh_TW: '&6選擇'
+GUI_GENERIC_EDITORENUMSELECTLORE:
+  en_US: '&7Select a regular value'
+  es_ES: '&7Selccione un valor regular'
+  fr_FR: '&7Sélectionner une valeur classique'
+  it_IT: '&7Seleziona un valore regolare'
+  zh_TW: '&7選擇一個正常的數值'
+GUI_GENERIC_EDITORENUMTYPESELECT:
+  en_US: '&6Select type'
+  es_ES: '&6Seleccione el tipo'
+  fr_FR: '&6Sélectionner le type'
+  it_IT: '&6Seleziona il tipo'
+  zh_TW: '&6選擇類型'
+GUI_GENERIC_EDITOR_YEARLORE:
+  en_US: '&7Year'
+  es_ES: '&7Año'
+  fr_FR: '&7Année'
+  zh_TW: '&7年'
+GUI_GENERIC_EDITOR_MONTHLORE:
+  en_US: '&7Month'
+  es_ES: '&7Mes'
+  fr_FR: '&7Mois'
+  zh_TW: '&7月'
+GUI_GENERIC_EDITOR_DAYLORE:
+  en_US: '&7Day of week'
+  es_ES: '&7Día de la semana'
+  fr_FR: '&7Jour de la semaine'
+  zh_TW: '&7一周的一天'
+GUI_GENERIC_EDITOR_HOURLORE:
+  en_US: '&7Hour'
+  es_ES: '&7Hora'
+  fr_FR: '&7Heure'
+  zh_TW: '&7小時'
+GUI_GENERIC_EDITOR_MINUTELORE:
+  en_US: '&7Minute'
+  es_ES: '&7Minuto'
+  zh_TW: '&7分鐘'
+GUI_GENERIC_EDITOR_WEEKTIMEFRAMESTARTLORE:
+  en_US: '&7Start of time frame in week'
+  es_ES: '&7Comienzo del período en la semana'
+  fr_FR: '&7Début de période dans la semaine'
+  zh_TW: '&7一周內時間周期開始的時間'
+GUI_GENERIC_EDITOR_WEEKTIMEFRAMEENDLORE:
+  en_US: '&7End of time frame in week'
+  es_ES: '&7Final del período en la semana'
+  fr_FR: '&7Fin de période dans la semaine'
+  zh_TW: '&7一周內時間周期結束的時間'
+GUI_GENERIC_EDITOR_CUTDELAYLORE:
+  en_US:
+  - '&7If this setting is specified, the time frame'
+  - '&7 will be split into smaller parts'
+  es_ES:
+  - '&7Si este parametro es especificado'
+  - '&7 el período será dividido en partes más pequéñas'
+  fr_FR:
+  - '&7Si ce paramètre est spécifié, la période sera'
+  - '&7 divisée en plus petites parties'
+  zh_TW:
+  - '&7如果這個設定可用 時間周期'
+  - '&7會被 分成小部分'
+GUI_GENERIC_EDITOR_BLOCKTYPELORE:
+  en_US: '&7Type of block'
+  es_ES: '&7Tipo de bloque'
+  fr_FR: '&7Type de bloc'
+  it_IT: '&7Tipo di blocco'
+  zh_TW: '&7方塊種類'
+GUI_GENERIC_EDITOR_MOB_TYPELORE:
+  en_US: '&7Type of mob'
+  es_ES: '&7Tipo de mob'
+  fr_FR: '&7Type de mob'
+  it_IT: '&7Tipo di mob'
+  zh_TW: '&7怪物種類'
+GUI_GENERIC_EDITOR_MOB_NAMELORE:
+  en_US: '&7Name of mob'
+  es_ES: '&7Nombre del mob'
+  fr_FR: '&7Nom de mob'
+  it_IT: '&7Nome del mob'
+  zh_TW: '&7怪物名稱'
+GUI_GENERIC_EDITOR_MOB_COLORLORE:
+  en_US: '&7Color of the mob (if applicable)'
+  es_ES: '&7Color del mob (si es aplicable)'
+  fr_FR: '&7Couleur du mob (si applicable)'
+  zh_TW: '&7怪物的顏色 (如果可用)'
+GUI_GENERIC_EDITOR_MOB_AMOUNTLORE:
+  en_US: '&7Mob amount'
+  es_ES: '&7Número de mobs'
+  fr_FR: '&7Nombre de mobs'
+  zh_TW: '&7怪物數量'
+GUI_GENERIC_EDITOR_ENCHANTMENT_TYPELORE:
+  en_US: '&7Type of enchantment'
+  es_ES: '&7Tipo de encantamiento'
+  fr_FR: '&7Type d''enchantement'
+  zh_TW: '&7附魔種類'
+GUI_GENERIC_EDITOR_ENCHANTMENT_LEVELLORE:
+  en_US: '&7Level of enchantment'
+  es_ES: '&7Nivel del encantamiento'
+  fr_FR: '&7Niveau d''enchantement'
+  zh_TW: '&7附魔等擊'
+GUI_GENERIC_EDITOR_POTIONEFFECT_TYPELORE:
+  en_US: '&7Type of effect'
+  es_ES: '&7Tipo de efecto'
+  fr_FR: '&7Type d''effet'
+  it_IT: '&7Tipo d''effetto'
+  zh_TW: '&7藥水效果種類'
+GUI_GENERIC_EDITOR_POTIONEFFECT_AMPLIFIERLORE:
+  en_US: '&7Amplifier of effect'
+  es_ES: '&7Amplificador del efecto'
+  fr_FR: '&7Amplificateur d''effet'
+  zh_TW: '&7藥水效果等擊'
+GUI_GENERIC_EDITOR_POTIONEFFECT_DURATIONLORE:
+  en_US: '&7Duration of effect (in ticks, 1 sec = 20 ticks)'
+  es_ES: '&7Duración del efecto (en ticks, 1 seg = 20 ticks)'
+  fr_FR: '&7Durée de l''effet (en ticks, 1 sec = 20 ticks)'
+  it_IT: '&7Durata dell''effetto (in tick, 1 sec = 20 ticks)'
+  zh_TW: '&7藥水效果持續時間 (遊戲刻，1秒 = 20 遊戲刻)'
+GUI_GENERIC_EDITOR_NPC_SHOWLORE:
+  en_US: '&7Should the NPC be shown by default'
+  es_ES: '&7¿Debería mostrarse el NPC por defecto?'
+  fr_FR: '&7Est-ce que le NPC doit être montré par défaut'
+  zh_TW: '&7哪一個NPC要做為預設顯示'
+GUI_GENERIC_EDITOR_NPC_NAMELORE:
+  en_US: '&7Name of the NPC'
+  es_ES: '&7Nombre del NPC'
+  fr_FR: '&7Nom du NPC'
+  zh_TW: '&7NPC名稱'
+GUI_GENERIC_EDITOR_NPC_SKINDATALORE:
+  en_US:
+  - '&7Skin data of the NPC (can be generated'
+  - '&7 or obtained at https://mineskin.org/)'
+  es_ES:
+  - '&7Los datos de skin del NPC (pueden ser generados'
+  - '&7 o ser obtenidos en https://mineskin.org/)'
+  fr_FR:
+  - '&7Skin data de ce NPC (can be generated'
+  - '&7 or obtained at https://mineskin.org/)'
+  zh_TW:
+  - '&7NPC的SKIN Data可以在下方網址找到'
+  - '&7heeps://mineskin.org/'
+GUI_GENERIC_EDITOR_NPC_SKINSIGNATURELORE:
+  en_US:
+  - '&7Skin signature of the NPC (can be generated'
+  - '&7 or obtained at https://mineskin.org/)'
+  es_ES:
+  - '&7La firma de la skin del NPC (puede ser generada'
+  - '&7 o obtenida en https://mineskin.org/)'
+  fr_FR:
+  - '&7Skin signature de ce NPC (can be generated'
+  - '&7 or obtained at https://mineskin.org/)'
+  zh_TW:
+  - '&7NPC的SKIN Signature可以在下方網址找到'
+  - '&7heeps://mineskin.org/'
+GUI_GENERIC_EDITOR_NPC_LOCATIONLORE:
+  en_US: '&7Default location of the NPC'
+  es_ES: '&7Localización por defecto del NPC'
+  fr_FR: '&7Emplacement par défaut du NPC'
+  zh_TW: '&7NPC的預設位置'
+GUI_GENERIC_EDITOR_NPC_TARGETDISTANCELORE:
+  en_US:
+  - '&7Distance under which the NPC will'
+  - '&7 look at the player when close'
+  es_ES:
+  - '&7Distancia desde la cual el NPC'
+  - '&7Va a a mirar al jugador cercano'
+  fr_FR:
+  - '&7Distance à laquelle le NPC regardera'
+  - '&7 le joueur s''il en est proche'
+  zh_TW:
+  - '&7設定一個距離 當玩家進入這個距離時'
+  - '&7NPC將會看向那個玩家'
+GUI_GENERIC_EDITOR_NPC_ATTACKBEHAVIORLORE:
+  en_US: '&7Attack behavior towards other entities'
+  es_ES: '&7Comportamiento de ataque a otras entidades'
+  fr_FR: '&7Comportement d''attaque envers les autres entités'
+  zh_TW: '&7對其他實體的攻擊行為'
+GUI_GENERIC_EDITOR_NPC_ATTACKDISTANCELORE:
+  en_US:
+  - '&7Distance under which the NPC will'
+  - '&7 try to attack the player when close'
+  es_ES:
+  - '&7Distancia a la cual el NPC intentara'
+  - '&7 atacar a un jugador cercano'
+  fr_FR:
+  - '&7Distance à laquelle le NPC essaiera'
+  - '&7 d''attaquer le joueur s''il en est proche'
+  zh_TW:
+  - '&7設定一個距離 當玩家進入這個距離時'
+  - '&7NPC將會攻擊那個玩家'
+GUI_GENERIC_EDITOR_NPC_STATUSLORE:
+  en_US: '&7List of status of the NPC'
+  es_ES: '&7Lista del estado de los NPC'
+  fr_FR: '&7Liste de status du NPC'
+  zh_TW: '&7列出NPC可設定的狀態'
+GUI_GENERIC_EDITOR_NPC_STUFFLORE:
+  en_US: '&7Stuff by default of the NPC'
+  es_ES: '&7Equipamiento por defecto del NPC'
+  fr_FR: '&7Équipement par défaut du NPC'
+  zh_TW: '&7NPC的預設裝備/物品'
+GUI_GENERIC_EDITOR_NPC_BEHAVIORSLORE:
+  en_US: '&7Behaviors that the NPC can naturally trigger'
+  es_ES: '&7Comportamientos que el NPC activará naturalmente'
+  fr_FR: '&7Behaviors que le NPC peut activer naturellement'
+  zh_TW: '&7NPC的預設裝備/物品'
+GUI_GENERIC_EDITOR_NPC_VARIABLESLORE:
+  en_US: '&7Default variables values for the NPC'
+  es_ES: '&7Valores de variables por defecto para el NPC'
+  fr_FR: '&7Variables par défaut pour le NPC'
+  zh_TW: '&7NPC可以自然觸發的行為'
+GUI_GENERIC_EDITOR_SOUND_TYPELORE:
+  en_US: '&7Type of sound'
+  es_ES: '&7Tipo de sonido'
+  fr_FR: '&7Type de son'
+  it_IT: '&7Tipo di suono'
+  zh_TW: '&7聲音類型'
+GUI_GENERIC_EDITOR_SOUND_VOLUMELORE:
+  en_US: '&7Volume of sound (normal = 1.0)'
+  es_ES: '&7Volumen del sonido (normal= 1.0)'
+  fr_FR: '&7Volume du son (normal = 1.0)'
+  it_IT: '&7Volume del suono (normale = 1.0)'
+  zh_TW: '&7聲音大小 (預設 = 1.0)'
+GUI_GENERIC_EDITOR_SOUND_PITCH:
+  en_US: '&7Pitch of sound (normal = 1.0)'
+  es_ES: '&7Tono del sonido (normal = 1.0)'
+  fr_FR: '&7Pitch du son (normal = 1.0)'
+  it_IT: '&7Passo del suono (normale = 1.0)'
+  zh_TW: '&7聲音音高 (預設 = 1.0)'
+GUI_GENERIC_EDITOR_TAB_HEADERLORE:
+  en_US: '&7Header'
+  es_ES: '&7Título'
+  fr_FR: '&7En-tête'
+  it_IT: '&7Intestazione'
+  zh_TW: '&7TAB上排'
+GUI_GENERIC_EDITOR_TAB_FOOTERLORE:
+  en_US: '&7Footer'
+  es_ES: '&7Pie de página'
+  fr_FR: '&7Bas de page'
+  it_IT: '&7Fondo della pagina'
+  zh_TW: '&7TAB下排'
+GUI_GENERIC_EDITOR_TITLE_TITLELORE:
+  en_US: '&7Title'
+  es_ES: '&7Título'
+  fr_FR: '&7Titre'
+  it_IT: '&7Titolo'
+  zh_TW: '&7標題'
+GUI_GENERIC_EDITOR_TITLE_SUBTITLELORE:
+  en_US: '&7Subtitle'
+  es_ES: '&7Subtítulo'
+  fr_FR: '&7Sous-titre'
+  it_IT: '&7Sottotitolo'
+  zh_TW: '&7子標題'
+GUI_GENERIC_EDITOR_TITLE_FADEINLORE:
+  en_US: '&7Fade in (in ticks) (1 sec = 20 ticks)'
+  es_ES: '&7Tiempo hasta desaparecer (en ticks) (1 seg = 20 ticks)'
+  fr_FR: '&7Temps d''apparition (en ticks) (1 sec = 20 ticks)'
+  it_IT: '&7Tempo d''attesa (in tick) (1 sec = 20 ticks)'
+  zh_TW: '&7淡入時間 (遊戲刻，1秒 = 20 遊戲刻)'
+GUI_GENERIC_EDITOR_TITLE_DURATIONLORE:
+  en_US: '&7Duration (in ticks) (1 sec = 20 ticks)'
+  es_ES: '&7Duración (en ticks) (1 seg = 20 ticks)'
+  fr_FR: '&7Durée (en ticks) (1 sec = 20 ticks)'
+  it_IT: '&7Durata (in ticks) (1 sec = 20 ticks)'
+  zh_TW: '&7持續時間 (遊戲刻，1秒 = 20 遊戲刻)'
+GUI_GENERIC_EDITOR_TITLE_FADEOUTLORE:
+  en_US: '&7Fade out (in ticks) (1 sec = 20 ticks)'
+  es_ES: '&7Duración (en ticks) (1 seg = 20 ticks)'
+  fr_FR: '&7Temps de disparition (en ticks) (1 sec = 20 ticks)'
+  it_IT: '&7Tempo di scomparsa (in ticks) (1 sec = 20 ticks)'
+  zh_TW: '&7淡出時間 (遊戲刻，1秒 = 20 遊戲刻)'
+GUI_GENERIC_EDITOR_ITEM_SLOTLORE:
+  en_US: '&7Slot in the GUI'
+  es_ES: '&7Lugar en la GUI'
+  fr_FR: '&7Position dans le GUI'
+  it_IT: '&7Posizione nella GUI'
+  zh_TW: '&7物品在GUI的位置'
+GUI_GENERIC_EDITOR_ITEM_CHANCELORE:
+  en_US: '&7Item apparition chance'
+  es_ES: '&7Posibilidad de aparición del item'
+  fr_FR: '&7Chance pour l''item d''apparaître'
+  it_IT: '&7Cambia il tempo d''attesa'
+  zh_TW: '&7物品出現機率'
+GUI_GENERIC_EDITOR_ITEM_MAXAMOUNTLORE:
+  en_US: '&7Maximum items amount'
+  es_ES: '&7Número máximo por item'
+  fr_FR: '&7Nombre d''items maximum'
+  it_IT: '&7Numero massimo di item'
+  zh_TW: '&7最大物品數量'
+GUI_GENERIC_EDITOR_ITEM_ENABLEDLORE:
+  en_US: '&7Is the item enabled'
+  es_ES: '&7¿Está activo el item?'
+  fr_FR: '&7Est-ce que l''item est activé'
+  it_IT: '&7È l''oggetto attivo'
+  zh_TW: '&7物品是否開啟'
+GUI_GENERIC_EDITOR_ITEM_TYPELORE:
+  en_US: '&7Type of item'
+  es_ES: '&7Tipo de item'
+  fr_FR: '&7Type d''item'
+  it_IT: '&7Tipo di oggetto'
+  zh_TW: '&7物品的類型'
+GUI_GENERIC_EDITOR_ITEM_DURABILITYLORE:
+  en_US: '&7Durability of item'
+  es_ES: '&7Durabilidad del item'
+  fr_FR: '&7Durabilité de l''item'
+  it_IT: '&7Durabilità dell''oggetto'
+  zh_TW: '&7物品的耐久度'
+GUI_GENERIC_EDITOR_ITEM_UNBREAKABLELORE:
+  en_US: '&7Does the item has the unbreakable tag'
+  es_ES: '&7¿Es irrompible el item?'
+  fr_FR: '&7Est-ce que l''item a le tag unbreakable'
+  it_IT: '&7L''oggetto ha il tag unbreakable'
+  zh_TW: '&7物品是否有 不可破壞 的標籤'
+GUI_GENERIC_EDITOR_ITEM_AMOUNTLORE:
+  en_US: '&7Amount of items'
+  es_ES: '&7Número de items'
+  fr_FR: '&7Nombre d''items'
+  it_IT: '&7Numero di oggetti'
+  zh_TW: '&7物品的數量'
+GUI_GENERIC_EDITOR_ITEM_LORE:
+  en_US: '&7Display name of item'
+  es_ES: '&7Mostrar el nombre del item'
+  fr_FR: '&7Nom d''affichage de l''item'
+  it_IT: '&7Mostra il nome dell''oggetto'
+  zh_TW: '&7物品的顯示名稱'
+GUI_GENERIC_EDITOR_ITEM_LORELORE:
+  en_US: '&7Lore of item'
+  es_ES: '&7Lore del item'
+  fr_FR: '&7Description de l''item'
+  it_IT: '&7Descrizione dell''oggetto'
+  zh_TW: '&7物品的介紹'
+GUI_GENERIC_EDITOR_ITEM_ENCHANTSLORE:
+  en_US: '&7List of item enchants'
+  es_ES: '&7Lista de encantamientos para el item'
+  fr_FR: '&7Liste des enchantements de l''item'
+  it_IT: '&7Lista di incantesimi dell''oggetto'
+  zh_TW: '&7物品的附魔'
+GUI_GENERIC_EDITOR_ITEM_EFFECTSLORE:
+  en_US: '&7List of item effects'
+  es_ES: '&7Lista de efectos para el item'
+  fr_FR: '&7Liste des effets de l''item'
+  zh_TW: '&7物品的藥水效果'
+GUI_GENERIC_EDITOR_ITEM_NBTLORE:
+  en_US: '&7NBT tag of item, base64 encoded'
+  es_ES: '&7NBT tag del item'
+  fr_FR: '&7NBT tag de l''item, encodé en base64'
+  it_IT: '&7NBT tag dell''oggetto, base64 encoded'
+  zh_TW: '&7物品的 NBT標籤 基礎為64'
+GUI_GENERIC_EDITOR_ITEM_MUSTHAVEINHANDLORE:
+  en_US: '&7Should the item be hold in hand'
+  es_ES: '&7¿Debería el item estar sujeto en la mano?'
+  fr_FR: '&7Est-ce que l''item doit être tenu en main'
+  it_IT: '&7Se l''oggetto si tiene in mano'
+  zh_TW: '&7物品是否要拿在手上'
+GUI_GENERIC_EDITOR_ITEM_REMOVEAFTERACTIONLORE:
+  en_US: '&7Should the item be removed after action'
+  es_ES: '&7¿Debería eliminarse el item después de la acción?'
+  fr_FR: '&7Est-ce que l''item doit être supprimé après l''action'
+  it_IT: '&7Se l''oggetto deve essere cancellato dopo l''azione'
+  zh_TW: '&7物品是否要在動作執行後移除'
+GUI_GENERIC_EDITOR_ITEM_CHECKDURABILITYLORE:
+  en_US: '&7Should the durability be the exact same'
+  es_ES: '&7¿Debería mantenerse la durabilidad?'
+  fr_FR: '&7Est-ce que la durabilité doit être exactement la même'
+  zh_TW: '&7物品的耐久度是否要完全一樣'
+GUI_GENERIC_EDITOR_ITEM_EXACTMATCHLORE:
+  en_US:
+  - '&7Should the item be exactly the same or'
+  - '&7 can it has more enchants, name, ...'
+  es_ES:
+  - '&7¿Debería ser exactamente el mismo item o '
+  - '&7 puede tener mas encantamientos, nombres, ...?'
+  fr_FR:
+  - '&7Est-ce que l''item doit être exactement le'
+  - '&7 même ou est-ce qu''il peut avoir des'
+  - '&7 enchantements, nom, en plus...'
+  zh_TW:
+  - '&7物品是否要完全一樣'
+  - '&7是否可以多一些附魔、名稱...'
+GUI_GENERIC_EDITOR_ITEM_HIDEFLAGSLORE:
+  en_US: '&7Should the flags of the item be hidden'
+  es_ES: '&7¿Debería las flags del item estar ocultas?'
+  fr_FR: '&7Est-ce que les flags de l''item doivent être cachés'
+  zh_TW: '&7是否隱藏物品的標籤'
+GUI_GCORE_EDITOR_NPC_BEHAVIORCONDITIONTYPELORE:
+  en_US: '&7Type of condition'
+  es_ES: '&7Tipo de condición'
+  fr_FR: '&7Type de condition'
+  zh_TW: '&7條件類型'
+GUI_GCORE_EDITOR_NPC_BEHAVIORPROCESSESLORE:
+  en_US:
+  - '&7A list of processes for this behavior'
+  - '&7You select which ones will be run in the events'
+  - '&7 or in the processes themselves'
+  es_ES:
+  - '&7Una lista de procesos para este comportamiento'
+  - '&7Selecciona cuáles se ejecutarán en los eventos'
+  - '&7 o en los procesos mismos'
+  fr_FR:
+  - '&7Une liste de processus pour ce behavior'
+  - '&7Vous définissez lesquels seront lancés dans les events'
+  - '&7 ou directement dans les processus'
+  zh_TW:
+  - '&7列出此行為的流程'
+  - '&7選擇哪一個行為要在哪個事件'
+  - '&7或是在流程本身運行'
+GUI_GCORE_EDITOR_NPC_BEHAVIORACTIONSLORE:
+  en_US:
+  - '&7A list of actions for this behavior'
+  - '&7You select which ones will be run in the processes'
+  es_ES:
+  - '&7Una lista de acciones para este comportamiento'
+  - '&7Usted selecciona cuales de ellos se van a ejecutar en los procesos'
+  fr_FR:
+  - '&7Une liste d''actions pour ce behavior'
+  - '&7Vous définissez lesquelles seront lancées dans les processus'
+  zh_TW:
+  - '&7列出此行為的動作'
+  - '&7選擇哪一個動作要運行'
+GUI_GCORE_EDITOR_NPC_BEHAVIORCONDITIONSLORE:
+  en_US:
+  - '&7A list of conditions for this behavior'
+  - '&7You select which ones will be checked in the processes'
+  es_ES:
+  - '&7Una lista de condiciones para este comportamiento'
+  - '&7Usted selecciona cuales de ellos serán verificados en los procesos'
+  fr_FR:
+  - '&7Une liste de conditions pour ce behavior'
+  - '&7Vous définissez lesquelles seront vérifiées dans les processus'
+  zh_TW:
+  - '&7列出此行為的條件'
+  - '&7選出哪一個條件在運行時會被查看'
+GUI_GCORE_EDITOR_NPC_BEHAVIORMAXCONCURRENTINSTANCESLORE:
+  en_US:
+  - '&7How many instances of this behavior'
+  - '&7 can be active at the same time'
+  es_ES:
+  - '&7¿Cuantas instancias puede tener este comportamiento'
+  - '&7 activas al mismo tiempo?'
+  fr_FR:
+  - '&7Combien d''instances de ce behavior'
+  - '&7 peuvent être actives en même temps'
+  zh_TW:
+  - '&7列出此行為的例子'
+  - '&7是可以同時進行的'
+GUI_GCORE_EDITOR_NPC_BEHAVIOREVENTTYPELORE:
+  en_US: '&7Type of event'
+  es_ES: '&7Tipo de evento'
+  fr_FR: '&7Type d''event'
+  zh_TW: '&7事件種類'
+GUI_GCORE_EDITOR_NPC_BEHAVIOREVENTPROCESSLORE:
+  en_US: '&7What process should be run when this event is triggered'
+  es_ES: '&7¿Qué tipo de procesos se deberían activar caundo se activa este evento?'
+  fr_FR: '&7Quel processus doit être lancé lorsque cet event est activé'
+GUI_GCORE_EDITOR_NPC_BEHAVIORACTIONTYPELORE:
+  en_US: '&7Type of action'
+  es_ES: '&7Tipo de acción'
+  fr_FR: '&7Type d''action'
+  zh_TW: '&7動作類型'
+GUI_GCORE_EDITOR_NPC_BEHAVIORPLAYERDISTANCEVALUELORE:
+  en_US: '&7To which value the distance must be compared'
+  es_ES: '&7A qué distancia se debe comparar el valor de la distancia'
+  fr_FR: '&7À quelle valeur la distance doit être comparée'
+  zh_TW: '&7哪一個數值要與距離比較'
+GUI_GCORE_EDITOR_NPC_BEHAVIORRANDOMVALUELORE:
+  en_US: '&7To which value the generated number must be compared'
+  es_ES: '&7A que valor se debe comparar el número generado'
+  fr_FR: '&7À quelle valeur le nombre généré doit être comparée'
+  zh_TW: '&7哪一個數值要與生成的數字比較'
+GUI_GCORE_EDITOR_NPC_BEHAVIORRANDOMMINLORE:
+  en_US: '&7The minimum value that will be generated'
+  es_ES: '&7El valor mínimo que será generado'
+  fr_FR: '&7La valeur minimum qui sera générée'
+  zh_TW: '&7生成的最小數值'
+GUI_GCORE_EDITOR_NPC_BEHAVIORRANDOMMAXLORE:
+  en_US: '&7The maximum value that will be generated'
+  es_ES: '&7El valor máximo que será generado'
+  fr_FR: '&7La valeur maximale qui sera générée'
+  zh_TW: '&7生成的最大數值'
+GUI_GCORE_EDITOR_NPC_BEHAVIORACTIONVARIABLELORE:
+  en_US: '&7Which variable must be changed'
+  fr_FR: '&7Quelle variable doit être changée'
+GUI_GCORE_EDITOR_NPC_BEHAVIORVARIABLEVALUELORE:
+  en_US: '&7To which value the variable must be changed'
+  es_ES: '&7A que valor se debe cambiar la variable'
+  fr_FR: '&7À quelle valeur la variable doit être changée'
+  zh_TW: '&7要改變哪一個數值的參數'
+GUI_GCORE_EDITOR_NPC_BEHAVIORVARIABLECHECKLORE:
+  en_US: '&7What type of comparaison must be made'
+  fr_FR: '&7Quel type de comparaison doit être fait'
+GUI_GCORE_EDITOR_NPC_BEHAVIORVARIABLEMULTIPLIERLORE:
+  en_US: '&7The multiplier applied to the variable value'
+  es_ES: '&7El multiplicador aplicado al valor de la variable'
+  fr_FR: '&7Le multiplicateur appliqué à la valeur de la variable'
+  zh_TW: '&7乘法應用於變量值'
+GUI_GCORE_EDITOR_NPC_BEHAVIORVARIABLEMODIFIERLORE:
+  en_US: '&7The modifier added to the variable value'
+  es_ES: '&7El modificador añadido al valor de la variable'
+  fr_FR: '&7Le modificateur ajouté à la valeur de la variable'
+  zh_TW: '&7新增到變量的變化'
+GUI_GCORE_EDITOR_NPC_BEHAVIORHEALTHMODIFIERLORE:
+  en_US: '&7The modifier added to the player life'
+  es_ES: '&7El modificador agregado a la vida del jugador'
+  fr_FR: '&7Le modificateur ajouté à la vie du joueur'
+  zh_TW: '&7新增到玩家生命值上的變化'
+GUI_GCORE_EDITOR_NPC_BEHAVIORMESSAGESLORE:
+  en_US: '&7The variants of the messages to be send'
+  es_ES: '&7Las variantes de este mensaje que se de deberán enviar'
+  fr_FR: '&7Les variantes du message qui sera envoyé'
+  zh_TW: '&7顯示的變量訊息'
+GUI_GCORE_EDITOR_NPC_BEHAVIORMOVETARGETLORE:
+  en_US: '&7To where should the npc move (set a location or ''player'')'
+  es_ES: '&7A donde se debería mover el NPC (defina una localización o ''player'')'
+  fr_FR: '&7Où est-ce que le npc doit aller (définir une location ou ''player'''
+  zh_TW: '&7NPC要往哪裡移動 (設定一個地點或事 ''玩家'')'
+GUI_GCORE_EDITOR_NPC_BEHAVIORANIMATIONLORE:
+  en_US: '&7What animation should be played'
+  es_ES: '&7¿Qué animación se debería activar?'
+  fr_FR: '&7Quelle animation doit être jouée'
+  zh_TW: '&7要執行哪個動畫'

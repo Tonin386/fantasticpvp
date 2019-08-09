@@ -1,0 +1,5 @@
+options:
+  safezones:
+    no entry: false
+    mode: KNOCKBACK
+    knockback strength: 5.0

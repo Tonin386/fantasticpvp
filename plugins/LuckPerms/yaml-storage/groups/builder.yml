@@ -1,0 +1,34 @@
+name: builder
+permissions:
+- essentials.warps.*
+- voxelsniper.*
+- essentials.warp.*
+- hologram.*
+- worldedit.*
+- essentials.worlds.*
+- bukkit.command.toggledownfall
+- combatlogx.bypass
+- essentials.gamemode
+- essentials.gamemode.creative
+- essentials.gamemode.survival
+- essentials.powertool
+- essentials.powertool.append
+- essentials.powertooltoggle
+- essentials.speed
+- essentials.speed.bypass
+- essentials.speed.fly
+- essentials.speed.walk
+- essentials.teleport.cooldown.bypass
+- essentials.teleport.timer.bypass
+- essentials.time.set
+- essentials.tp
+- essentials.tp.others
+- essentials.world
+- factions.override
+- skinrestorer.playercmds
+- skinrestorer.playercmds.menu
+- weight.6
+parents:
+prefixes:
+- '&a[Builder] ':
+    priority: 5

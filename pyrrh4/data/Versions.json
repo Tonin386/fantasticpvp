@@ -1,0 +1,6 @@
+{
+  "plugins": {
+    "pyrcore": "3.3.5",
+    "customcommands": "2.4.0"
+  }
+}

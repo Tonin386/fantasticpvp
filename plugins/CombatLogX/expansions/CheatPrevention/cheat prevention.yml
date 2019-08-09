@@ -1,0 +1,27 @@
+cheat prevention:
+  inventories:
+    prevent opening: true
+    automatically close: true
+  teleportation:
+    prevent: true
+    allow ender pearls: false
+    enderpearls restart timer: true
+  safezone:
+    no entry: true
+  flight:
+    disable: true
+    re-enable after combat: false
+  change gamemode:
+    enabled: true
+    mode: SURVIVAL
+  blocked commands:
+    whitelist mode: false
+    commands:
+    - fly
+    - tpa
+    - tpahere
+    - spawn
+    - home
+  blocked potions:
+  - INVISIBILITY
+  - INCREASE_DAMAGE

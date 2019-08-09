@@ -1,0 +1,25 @@
+# Locale : en_US
+
+# Messages
+
+messages: 
+  error_no_permission: '&cYou don''t have the permission to do this.'
+  error_in_game: '&cYou have to be in-game to do this.'
+  error_invalid_number: '&cInvalid number : ''$ERROR''.'
+  error_invalid_player: '&cUnknown player : ''$ERROR''.'
+  error_player_offline: '&cOffline player : ''$ERROR''.'
+  error_arg_size: '&cInvalid text argument size : ''$ERROR''.'
+  error_unknown: '&cUnknown error : ''$ERROR''.'
+  error_command_unknown: '&cAn error occured while processing your arguments. Maybe you''re misusing the command. Closest command :'
+  error_command_closest: '&c$COMMAND'
+  admin_plugin_not_found: '&4PyrCore >> &cThis plugin could not be found. Available plugins : /pyr plugins'
+  admin_plugins_amount: '&7PyrCore >> This server has $AMOUNT plugin$PLURAL that are using PyrCore.'
+  admin_plugins_list_element: '&7  >> &a$NAME &7version &a$VERSION'
+  plugin_reload_start: '&2$PLUGIN >> &a$PLAYER : starting reload...'
+  plugin_reload_end: '&2$PLUGIN >> &a$PLAYER : reload ended !'
+  command_help: '&2$PLUGIN >> Available commands :'
+  empty_list: '&7There''s nothing to see here.'
+  time_format_s: '$SECSs'
+  time_format_ms: '$MINSm $SECSs'
+  time_format_hms: '$HRSh $MINSm $SECSs'
+  time_format_dhms: '$DAYSd $HRSh $MINSm $SECSs'

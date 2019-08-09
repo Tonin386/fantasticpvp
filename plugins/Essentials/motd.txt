@@ -1,0 +1,4 @@
+&7Bienvenue, {PLAYER}&7!
+&7Tape &c/help&7 pour savoir les commandes que tu peux utiliser.
+&7Tape &c/list&7 pour voir qui est en ligne.
+&7Joueurs en ligne :&c {ONLINE} &7- Heure du monde :&c {WORLDTIME12}

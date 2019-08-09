@@ -1,0 +1,89 @@
+2019-08-01 20:05:29 [INFO] [JSONAPI] Loaded methods.json.
+2019-08-01 20:05:29 [INFO] [JSONAPI] Waiting 2.000 seconds to load methods so that all the other plugins load...
+2019-08-01 20:05:29 [INFO] [JSONAPI] Any requests in this time will not work...
+2019-08-01 20:05:31 [INFO] [JSONAPI] Remote Toolkit cannot be loaded because it depends on a plugin that is not installed: 'RemoteToolkitPlugin'
+2019-08-01 20:05:31 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2019-08-01 20:05:31 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2019-08-01 20:05:31 [INFO] [JSONAPI] Remote Toolkit methods cannot be loaded because it depends on a plugin that is not installed: 'RemoteToolkitPlugin'
+2019-08-01 20:05:31 [INFO] [JSONAPI] 386 methods loaded in 7 namespaces.
+2019-08-01 20:05:31 [INFO] [JSONAPI] ------[Connection information]-------
+2019-08-01 20:05:31 [INFO] [JSONAPI] JSON Server listening on 31080
+2019-08-01 20:05:31 [INFO] [JSONAPI] JSON Stream Server listening on 31081
+2019-08-01 20:05:31 [INFO] [JSONAPI] JSON WebSocket Stream Server listening on 31082
+2019-08-01 20:05:31 [INFO] [JSONAPI] Active and listening for requests.
+2019-08-01 20:05:33 [INFO] [JSONAPI] External IP: <html>
+2019-08-01 20:05:33 [INFO] [JSONAPI] Port 31080 is not properly forwarded.
+2019-08-01 20:05:33 [INFO] [JSONAPI] Port 31081 is not properly forwarded.
+2019-08-01 20:05:33 [INFO] [JSONAPI] Port 31082 is not properly forwarded.
+2019-08-01 20:05:33 [INFO] [JSONAPI] -------------------------------------
+2019-08-01 20:11:17 [INFO] [JSONAPI] Loaded methods.json.
+2019-08-01 20:11:17 [INFO] [JSONAPI] Waiting 2.000 seconds to load methods so that all the other plugins load...
+2019-08-01 20:11:17 [INFO] [JSONAPI] Any requests in this time will not work...
+2019-08-01 20:11:19 [INFO] [JSONAPI] Remote Toolkit cannot be loaded because it depends on a plugin that is not installed: 'RemoteToolkitPlugin'
+2019-08-01 20:11:19 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2019-08-01 20:11:19 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2019-08-01 20:11:19 [INFO] [JSONAPI] Remote Toolkit methods cannot be loaded because it depends on a plugin that is not installed: 'RemoteToolkitPlugin'
+2019-08-01 20:11:19 [INFO] [JSONAPI] 386 methods loaded in 7 namespaces.
+2019-08-01 20:11:19 [INFO] [JSONAPI] ------[Connection information]-------
+2019-08-01 20:11:19 [INFO] [JSONAPI] JSON Server listening on 31080
+2019-08-01 20:11:19 [INFO] [JSONAPI] JSON Stream Server listening on 31081
+2019-08-01 20:11:19 [INFO] [JSONAPI] JSON WebSocket Stream Server listening on 31082
+2019-08-01 20:11:19 [INFO] [JSONAPI] Active and listening for requests.
+2019-08-01 20:11:19 [INFO] [JSONAPI] External IP: <html>
+2019-08-01 20:11:19 [INFO] [JSONAPI] Port 31080 is not properly forwarded.
+2019-08-01 20:11:19 [INFO] [JSONAPI] Port 31081 is not properly forwarded.
+2019-08-01 20:11:20 [INFO] [JSONAPI] Port 31082 is not properly forwarded.
+2019-08-01 20:11:20 [INFO] [JSONAPI] -------------------------------------
+2019-08-01 20:16:18 [INFO] [JSONAPI] Loaded methods.json.
+2019-08-01 20:16:18 [INFO] [JSONAPI] Waiting 2.000 seconds to load methods so that all the other plugins load...
+2019-08-01 20:16:18 [INFO] [JSONAPI] Any requests in this time will not work...
+2019-08-01 20:16:20 [INFO] [JSONAPI] Remote Toolkit cannot be loaded because it depends on a plugin that is not installed: 'RemoteToolkitPlugin'
+2019-08-01 20:16:20 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2019-08-01 20:16:20 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2019-08-01 20:16:20 [INFO] [JSONAPI] Remote Toolkit methods cannot be loaded because it depends on a plugin that is not installed: 'RemoteToolkitPlugin'
+2019-08-01 20:16:20 [INFO] [JSONAPI] 386 methods loaded in 7 namespaces.
+2019-08-01 20:16:20 [INFO] [JSONAPI] ------[Connection information]-------
+2019-08-01 20:16:20 [INFO] [JSONAPI] JSON Server listening on 31080
+2019-08-01 20:16:20 [INFO] [JSONAPI] JSON Stream Server listening on 31081
+2019-08-01 20:16:20 [INFO] [JSONAPI] JSON WebSocket Stream Server listening on 31082
+2019-08-01 20:16:20 [INFO] [JSONAPI] Active and listening for requests.
+2019-08-01 20:16:20 [INFO] [JSONAPI] External IP: <html>
+2019-08-01 20:16:20 [INFO] [JSONAPI] Port 31080 is not properly forwarded.
+2019-08-01 20:16:20 [INFO] [JSONAPI] Port 31081 is not properly forwarded.
+2019-08-01 20:16:21 [INFO] [JSONAPI] Port 31082 is not properly forwarded.
+2019-08-01 20:16:21 [INFO] [JSONAPI] -------------------------------------
+2019-08-03 10:37:29 [INFO] [JSONAPI] [API Call] 193.56.171.199: method=getPlayerLimit?args=[]
+2019-08-03 18:43:53 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:45:11 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:45:21 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:45:53 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:46:55 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:50:19 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:50:25 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:52:49 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:54:01 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:55:02 [INFO] [JSONAPI] [API Call] 193.56.171.199: method=getPlayerLimit?args=[]
+2019-08-03 18:55:12 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 18:57:59 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 19:03:12 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 19:03:28 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 19:03:42 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.
+2019-08-03 19:05:04 [INFO] [JSONAPI] Loaded methods.json.
+2019-08-03 19:05:04 [INFO] [JSONAPI] Waiting 2.000 seconds to load methods so that all the other plugins load...
+2019-08-03 19:05:04 [INFO] [JSONAPI] Any requests in this time will not work...
+2019-08-03 19:05:04 [INFO] [JSONAPI] Remote Toolkit cannot be loaded because it depends on a plugin that is not installed: 'RemoteToolkitPlugin'
+2019-08-03 19:05:04 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2019-08-03 19:05:04 [INFO] [JSONAPI] Dynmap cannot be loaded because it depends on a plugin that is not installed: 'dynmap'
+2019-08-03 19:05:04 [INFO] [JSONAPI] Remote Toolkit methods cannot be loaded because it depends on a plugin that is not installed: 'RemoteToolkitPlugin'
+2019-08-03 19:05:04 [INFO] [JSONAPI] 386 methods loaded in 7 namespaces.
+2019-08-03 19:05:04 [INFO] [JSONAPI] ------[Connection information]-------
+2019-08-03 19:05:04 [INFO] [JSONAPI] JSON Server listening on 31080
+2019-08-03 19:05:04 [INFO] [JSONAPI] JSON Stream Server listening on 31081
+2019-08-03 19:05:04 [INFO] [JSONAPI] JSON WebSocket Stream Server listening on 31082
+2019-08-03 19:05:04 [INFO] [JSONAPI] Active and listening for requests.
+2019-08-03 19:05:04 [INFO] [JSONAPI] External IP: <html>
+2019-08-03 19:05:04 [INFO] [JSONAPI] Port 31080 is not properly forwarded.
+2019-08-03 19:05:05 [INFO] [JSONAPI] Port 31081 is not properly forwarded.
+2019-08-03 19:05:05 [INFO] [JSONAPI] Port 31082 is not properly forwarded.
+2019-08-03 19:05:05 [INFO] [JSONAPI] -------------------------------------
+2019-08-03 19:08:12 [INFO] [JSONAPI] [API Call] 193.56.171.199: Invalid API Key.

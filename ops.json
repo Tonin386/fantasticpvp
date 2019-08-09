@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "2fb398d5-5089-3f89-9855-42ecd25f760f",
+    "name": "Timdankmeme",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "352dda05-4a7f-3d22-a088-fe9aa77b4f86",
+    "name": "FiddleComputers",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "03b2523d-72f9-337d-9074-ee8d0bb3700e",
+    "name": "Lx3200",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

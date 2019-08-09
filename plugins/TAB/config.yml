@@ -1,0 +1,149 @@
+# 
+# %online%       = online count
+# %ping%         = ping of player
+# %nick%         = nickname of player
+# %ip%           = IP of player
+# %time%         = for example 20:30:00
+# %rank%         = permission group of player
+# %money%        = money of player
+# %world%        = name of world where player is
+# %worldonline%  = amount of players in the same world, might be useful with per-world-playerlist enabled
+# %canseeonline% = similar to online, but doesn't count vanished players
+# %staffonline%  = amount of staff online, groups can be defined below
+# %kingdom%      = if kingdom plugin is installed..
+# %faction%      = if a faction plugin is installed..
+# .. + PlaceholderAPI
+
+change-nametag-prefix-suffix: true
+change-tablist-prefix-suffix: true
+enable-header-footer: true
+nametag-refresh-interval-ticks: 200
+tablist-refresh-interval-ticks: 200
+header-footer-refresh-interval-ticks: 1
+header:
+- '&3Bonjour &l%nick% !'
+- '&7Joueurs en ligne : %online%'
+- '&aPing : %ping%'
+- '&6Online staff: %staffonline%'
+- '%animated-object:MyAnimation1%'
+footer:
+- '%animated-object:MyAnimation1%'
+- '&7Notre site internet : %animated-object:web%'
+- '%animated-object:vote%'
+- '&a%time%'
+show-ping-in-tab: true
+invalid-ping-replacement: -1
+use-essentials-nickname-in-tab: false
+per-world-playerlist: false
+if-a-player-is-assigned-to-more-than-1-group-the-group-higher-in-this-list-will-be-used-to-apply-prefix-suffix:
+- Owner
+- Admin
+- Mod
+- Player
+staff-groups:
+- Admin
+- Moderateur
+- fondateur
+- Builder
+rank-aliases:
+  fondateur: '&4&lFondateur'
+  Admin: '&cAdmin'
+  Builder: '&5Builder'
+  Moderateur: '&5Mod'
+  Dieu: '&dDieu'
+  Legende: '&6Légende'
+  Heros: '&eHéros'
+  Chevalier: '&bChevalier'
+  default: '&7Citoyen'
+  player: '&7Citoyen'
+Groups:
+  Admin:
+    tabprefix: '&c[ADMIN] &c'
+    tagprefix: '&c[ADMIN] &c'
+  Fondateur:
+    tabprefix: '&4&lTEST'
+  fondateur:
+    tabprefix: '&4&l[FONDA-DEV]'
+    tagprefix: '&4&l[FONDA-DEV]'
+  default:
+    tagprefix: '&7[Citoyen] &7'
+    tabprefix: '&7[Citoyen] &7'
+  citoyen:
+    tagprefix: '&7[Citoyen> &7'
+  chevalier:
+    tabprefix: '&b[Chevalier] &b'
+    tagprefix: '&b[Chevalier] &b'
+  heros:
+    tabprefix: '&e[Héros] &e'
+    tagprefix: '&e[Héros] &e'
+  Légende:
+    tabprefix: '&6[Légende]&6'
+  Legende:
+    tabprefix: '&6[Légende] &6'
+  legende:
+    tabprefix: '&6[Légende] &6'
+    tagprefix: '&6[Légende] &6'
+  dieu:
+    tabprefix: '&d&l[Dieu] &r&d'
+    tagprefix: '&d&l[DIEU] &r&d'
+  admin:
+    tabprefix: '&c[ADMIN] &c'
+    tagprefix: '&c[ADMIN] &c'
+  moderateur:
+    tagprefix: '&5[Modo] &5'
+    tabprefix: '&5[Modo] &5'
+  builder:
+    tagprefix: '&a[Buildeur] &a'
+    tabprefix: '&a[Buildeur] &a'
+  helpeur:
+    tabprefix: '&5[Helpeur] &5'
+Users:
+  Player1:
+    tabprefix: ''
+    tagprefix: ''
+    tabsuffix: ''
+    tagsuffix: ''
+  50ShadesOfLenny:
+    tabprefix: '&c[ADMIN] &c'
+    tagprefix: '&c[ADMIN] &c'
+  Timdankmeme:
+    tabprefix: '&c[ADMIN] &c'
+    tagprefix: '&c[ADMIN] &c'
+  FiddleLaFete:
+    tabprefix: '&4&l[FONDA-DEV] &4'
+  Prim0n33:
+    tabprefix: '&5[MOD] &5'
+    tagprefix: '&5[MOD] &5'
+per-world-settings:
+  world1:
+    header:
+    - an example of world with custom
+    footer:
+    - header/footer and prefix/suffix
+    Groups:
+      Admin:
+        tabprefix: '&2&lAdmin &1&l'
+        tagprefix: '&2&lAdmin &1&l'
+      Player:
+        tabprefix: '&5&lPlayer &3&l'
+        tagprefix: '&5&lPlayer &3&l'
+  world2:
+    Groups:
+      Admin:
+        tabprefix: '&2&lAdmin &1&l'
+        tagprefix: '&2&lAdmin &1&l'
+      Player:
+        tabprefix: '&5&lPlayer &3&l'
+        tagprefix: '&5&lPlayer &3&l'
+    Users:
+      Player1:
+        tabprefix: ''
+        tagprefix: ''
+        tabsuffix: ''
+        tagsuffix: ''
+  world3:
+    header:
+    - an example of custom header/footer
+    - in world3, but
+    footer:
+    - prefix and suffix still same

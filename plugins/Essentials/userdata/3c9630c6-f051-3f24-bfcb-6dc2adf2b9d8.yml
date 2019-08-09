@@ -1,0 +1,80 @@
+lastAccountName: Tham_Yerk
+timestamps:
+  login: 1565195031127
+  lastteleport: 1565176105013
+  logout: 1565195039032
+  kits:
+    forgeronii: 1564951237671
+    chasseuriv: 1564951136060
+    chasseuriii: 1564951134910
+    chasseuri: 1564951132254
+    chasseurvi: 1564951138416
+    fermieriv: 1564951115078
+    bûcheroniii: 1564951260599
+    chasseurii: 1564951133807
+    forgeronvi: 1564951242681
+    fermiervi: 1564951117780
+    fabriquantiii: 1564951216438
+    alchimistevi: 1564951290050
+    forgeroniv: 1564951240129
+    chevalier: 1564951029124
+    chasseurv: 1564951137364
+    explorateuri: 1564951154510
+    citoyen: 1564951023449
+    legende: 1564951040635
+    explorateuriv: 1564951157078
+    enchanteuriii: 1564951073995
+    enchanteurii: 1564951075896
+    enchanteuriv: 1564951072094
+    explorateurv: 1564951157979
+    constructeurv: 1564951097334
+    explorateurvi: 1564951162384
+    enchanteurvi: 1564951058676
+    alchimistei: 1564951285197
+    fabriquantiv: 1564951217793
+    constructeuri: 1564951091028
+    alchimistev: 1564951289100
+    forgeroniii: 1564951238672
+    fermieri: 1564951111522
+    fabriquantvi: 1564951222045
+    bûcheronii: 1564951259298
+    fabriquanti: 1564951213385
+    bûcheroniv: 1564951261599
+    bûcheronv: 1564951262800
+    fabriquantii: 1564951214737
+    alchimisteiii: 1564951286898
+    explorateuriii: 1564951155862
+    forgeronv: 1564951241580
+    dieu: 1564951046096
+    explorateurii: 1564951155210
+    fabriquantv: 1564951219143
+    bûcheronvi: 1564951263901
+    fermierv: 1564951116379
+    bûcheroni: 1564951257997
+    fermierii: 1564951112672
+    alchimisteiv: 1564951288099
+    constructeuriv: 1564951096133
+    forgeroni: 1564951236362
+    fermieriii: 1564951113675
+    constructeurvi: 1564951098636
+    enchanteurv: 1564951069341
+    alchimisteii: 1564951285797
+    constructeurii: 1564951092029
+    constructeuriii: 1564951094782
+ipAddress: 193.56.171.199
+lastlocation:
+  world: monde
+  x: 265.5
+  y: 87.0
+  z: -30.5
+  yaw: 171.29858
+  pitch: 16.649977
+money: '100'
+afk: false
+logoutlocation:
+  world: monde
+  x: 153.44991969209525
+  y: 64.0
+  z: 92.33274158620436
+  yaw: 109.94999
+  pitch: 44.700012

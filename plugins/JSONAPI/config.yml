@@ -1,0 +1,18 @@
+# API methods on the method-whitelist will be
+# able to called without any sort of authentication
+method-whitelist:
+- getPlayerLimit
+- dynmap.getPort
+options:
+  stream_pusher:
+    max_queue_age: 30
+    max_queue_length: 500
+  startup-delay: 2000
+  port: 31080
+  ip-whitelist: []
+  log-to-console: false
+  log-to-file: 'false'
+  anyone-can-use-calladmin: true
+  use-new-api: false
+  adminium-push-enabled: true
+  salt: BizEl8YfAK

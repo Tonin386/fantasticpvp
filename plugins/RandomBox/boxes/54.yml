@@ -1,0 +1,125 @@
+boxName: '&6Fermier V'
+
+boxItem: 170
+
+lore:
+- '&eUne boîte obtenue'
+- '&epar un Fermier V'
+- '&7--------------'
+- 'items 0 &7%ordinal%. &ex%amount% %name%'
+- '&7--------------'
+- '&eBoîte très peu commune'
+
+checkPermission: false
+
+openWhenClicked: true
+
+addGlow: true
+
+unstackable: false
+
+gui:
+  enabled: true
+  rolling:
+  - {delay: 1, iterations: 50}
+  - {delay: 2, iterations: 20}
+  - {delay: 3, iterations: 10}
+  - {delay: 4, iterations: 5}
+  window:
+    type: CHEST
+    format:
+    - '@@@@#@@@@'
+    - 'abcdEfghi'
+    - '@@@@#@@@@'
+    fillers:
+      '@':
+        item: {id: 160, data: 15, delay: 20}
+        onStop:
+          item: {id: 0}
+      '#':
+        animated:
+        - {id: 160, data: 4, delay: 10}
+        - {id: 160, data: 5, delay: 10}
+
+effects:
+  open:
+    broadcast: '&b%player% &eouvre une &aBoîte du Fermier V &e!'
+
+itemsToSelectCount: 3
+
+items:
+  item1:
+    item: DIAMOND_HOE
+    name: 'Houe en diamant enchantée'
+    amount: 1
+    enchants:
+      efficiency: 2
+      unbreaking: 2
+    chance: 5
+  item2:
+    item: IRON_HOE
+    amount: 1
+    name: 'Houe en fer enchantée'
+    enchants:
+      efficiency: 3
+      unbreaking: 2
+    chance: 10
+  item3:
+    item: 352
+    name: 'Os'
+    amount: 6-20
+    chance: 10
+  item4:
+    item: DIAMOND_HOE
+    name: 'Houe en diamant'
+    amount: 1
+    chance: 25
+  item5:
+    commands:
+      command1:
+        line: 'xp give %player% 4L'
+        fromConsole: true
+    dontGiveItem: true
+    inBoxLoreFormat: '&7%ordinal%. %name%'
+    item: EXP_BOTTLE
+    name: '&rExp (4 lvl)'
+    amount: 1
+    chance: 8
+  item6:
+    commands:
+      command1:
+        line: 'xp give %player% 5L'
+        fromConsole: true
+    dontGiveItem: true
+    inBoxLoreFormat: '&7%ordinal%. %name%'
+    item: EXP_BOTTLE
+    name: '&rExp (5 lvl)'
+    amount: 1
+    chance: 7
+  item7:
+    box: 55
+    name: '&eBoîte de Fermier VI'
+    inBoxLoreFormat: '&7%ordinal%. %name%'
+    chance: 1
+  item8:
+    commands:
+      command1:
+        line: 'eco give %player% 40'
+        fromConsole: true
+    dontGiveItem: true
+    inBoxLoreFormat: '&e%ordinal%. %name%'
+    item: GOLD_NUGGET
+    name: '&e40$'
+    amount: 1
+    chance: 10
+  item9:
+    commands:
+      command1:
+        line: 'eco give %player% 55'
+        fromConsole: true
+    dontGiveItem: true
+    inBoxLoreFormat: '&e%ordinal%. %name%'
+    item: GOLD_NUGGET
+    name: '&e55$'
+    amount: 1
+    chance: 5

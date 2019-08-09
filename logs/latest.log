@@ -1,0 +1,791 @@
+[12:03:17] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[12:03:17] [Server thread/INFO]: Loading properties
+[12:03:17] [Server thread/INFO]: Default game type: SURVIVAL
+[12:03:18] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[12:03:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:03:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:03:18] [Server thread/INFO]: Debug logging is disabled
+[12:03:18] [Server thread/INFO]: Generating keypair
+[12:03:18] [Server thread/INFO]: Starting Minecraft server on 176.31.240.24:25934
+[12:03:18] [Server thread/INFO]: Using epoll channel type
+[12:03:19] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:03:19] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v4.2.17
+[12:03:19] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:03:19] [Server thread/INFO]: [CustomRecipes] Loading CustomRecipes v2.2.1-SNAPSHOT
+[12:03:20] [Server thread/INFO]: [Votifier] Loading Votifier v1.9
+[12:03:20] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
+[12:03:20] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
+[12:03:20] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b719
+[12:03:20] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
+[12:03:20] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.3
+[12:03:20] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:03:20] [Server thread/INFO]: [TAB] Loading TAB v1.7.0
+[12:03:20] [Server thread/INFO]: [RandomBox] Loading RandomBox v2.5.7
+[12:03:20] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[12:03:20] [Server thread/INFO]: [ProtocolSupport] Loading ProtocolSupport v4.28
+[12:03:20] [Server thread/INFO]: [ProtocolSupport] Detected Spigot server implementation type
+[12:03:20] [Server thread/INFO]: [ProtocolSupport] Allocator: PooledByteBufAllocator(directByDefault: true), direct: true
+[12:03:21] [Server thread/INFO]: [ProtocolSupport] Compression level: 3
+[12:03:21] [Server thread/INFO]: [ProtocolSupport] Assume 1.5.2 ping delay: 100
+[12:03:21] [Server thread/INFO]: [ProtocolSupport] Assume legacy ping delay: 200
+[12:03:21] [Server thread/INFO]: [ProtocolSupport] Login threads keep alive time: 60
+[12:03:24] [Server thread/INFO]: [JSONAPI] Loading JSONAPI v5.7.0
+[12:03:24] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.14.0
+[12:03:24] [Server thread/INFO]: [Essentials] Loading Essentials v2.15.0.1
+[12:03:24] [Server thread/INFO]: [GCore] Loading GCore v7.9.1
+[12:03:24] [Server thread/INFO]: [MobArena] Loading MobArena v0.102
+[12:03:24] [Server thread/INFO]: [Jobs] Loading Jobs v4.13.0
+[12:03:24] [Server thread/INFO]: [PerWorldInventory] Loading PerWorldInventory v2.1.0-legacy
+[12:03:24] [Server thread/INFO]: [CreativeGates] Loading CreativeGates v2.14.0
+[12:03:24] [Server thread/INFO]: [Holograms] Loading Holograms v2.5.0-SNAPSHOT
+[12:03:24] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.24-SNAPSHOT (build 1605)
+[12:03:24] [Server thread/INFO]: [Quests] Loading Quests v3.7.8-b16
+[12:03:24] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.15.0.1
+[12:03:24] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.15.0.1
+[12:03:24] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.15.0.1
+[12:03:24] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.15.0.1
+[12:03:24] [Server thread/INFO]: [CombatLogX] Loading CombatLogX v8.0.0.0
+[12:03:24] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.15.0.1
+[12:03:24] [Server thread/INFO]: [CustomCommands] Loading CustomCommands v3.1.3
+[12:03:24] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.4.0-b1877
+[12:03:24] [Server thread/INFO]: [Factions] Loading Factions v2.14.0
+[12:03:24] [Server thread/INFO]: [ShopChest] Loading ShopChest v1.12.3
+[12:03:24] [Server thread/INFO]: [ShopChest] Using locale "en_US"
+[12:03:24] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v4.2.17
+[12:03:24] [Server thread/INFO]: [0;36;1m               __       [0;36;22m __   ___  __         __  [m
+[12:03:24] [Server thread/INFO]: [0;36;1m    |    |  | /  ` |__/ [0;36;22m|__) |__  |__)  |\/| /__` [m
+[12:03:24] [Server thread/INFO]: [0;36;1m    |___ \__/ \__, |  \ [0;36;22m|    |___ |  \  |  | .__/ [m
+[12:03:24] [Server thread/INFO]:  [m
+[12:03:24] [Server thread/INFO]: [0;32;22m  Loading version [0;36;1mv4.2.17[0;32;22m on Bukkit - CraftBukkit[m
+[12:03:24] [Server thread/INFO]: [0;30;1m  Running on server version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) - 1.12.2-R0.1-SNAPSHOT[m
+[12:03:24] [Server thread/INFO]:  [m
+[12:03:24] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading configuration...[m
+[12:03:24] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading storage provider... [YAML][m
+[12:03:24] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading internal permission managers...[m
+[12:03:24] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mPerforming initial data load...[m
+[12:03:25] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully enabled. (took 614ms)[m
+[12:03:25] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
+[12:03:25] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[12:03:25] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[12:03:25] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:03:25] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:03:25] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[12:03:25] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mRegistered Vault permission & chat hook.[m
+[12:03:25] [Server thread/INFO]: [ProtocolSupport] Enabling ProtocolSupport v4.28
+[12:03:25] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.14.0
+[12:03:25] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[12:03:25] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[12:03:25] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[12:03:25] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[12:03:25] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[12:03:25] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m72[0;33;1mms.[m
+[12:03:26] [LoginProcessingThread/INFO]: UUID of player FiddleComputers is 352dda05-4a7f-3d22-a088-fe9aa77b4f86
+[12:03:27] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationLiabilityAreaEffectCloud[m
+[12:03:27] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationVault[m
+[12:03:27] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m1975ms[0;33;1m) ===[m
+[12:03:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:03:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:03:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:03:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:03:27] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:03:27] [Server thread/INFO]: Preparing level "monde"
+[12:03:27] [Server thread/INFO]: -------- World Settings For [monde] --------
+[12:03:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:03:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:03:27] [Server thread/INFO]: View Distance: 6
+[12:03:27] [Server thread/INFO]: Mob Spawn Range: 4
+[12:03:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:03:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:03:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:03:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:03:27] [Server thread/INFO]: Random Lighting Updates: false
+[12:03:27] [Server thread/INFO]: Structure Info Saving: true
+[12:03:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:03:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:03:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:03:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:03:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:03:27] [Server thread/INFO]: Max TNT Explosions: 100
+[12:03:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:03:27] [Server thread/INFO]: -------- World Settings For [monde_nether] --------
+[12:03:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:03:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:03:27] [Server thread/INFO]: View Distance: 6
+[12:03:27] [Server thread/INFO]: Mob Spawn Range: 4
+[12:03:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:03:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:03:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:03:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:03:27] [Server thread/INFO]: Random Lighting Updates: false
+[12:03:27] [Server thread/INFO]: Structure Info Saving: true
+[12:03:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:03:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:03:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:03:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:03:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:03:27] [Server thread/INFO]: Max TNT Explosions: 100
+[12:03:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:03:27] [Server thread/INFO]: -------- World Settings For [monde_the_end] --------
+[12:03:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:03:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:03:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:03:27] [Server thread/INFO]: View Distance: 6
+[12:03:27] [Server thread/INFO]: Mob Spawn Range: 4
+[12:03:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:03:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:03:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:03:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:03:27] [Server thread/INFO]: Random Lighting Updates: false
+[12:03:27] [Server thread/INFO]: Structure Info Saving: true
+[12:03:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:03:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:03:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:03:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:03:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:03:27] [Server thread/INFO]: Max TNT Explosions: 100
+[12:03:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:03:27] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7613182332890965605)
+[12:03:28] [Server thread/INFO]: Preparing spawn area: 21%
+[12:03:29] [Server thread/INFO]: Preparing spawn area: 77%
+[12:03:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7613182332890965605)
+[12:03:31] [Server thread/INFO]: Preparing spawn area: 74%
+[12:03:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7613182332890965605)
+[12:03:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:03:32] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:03:32] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:03:32] [Server thread/INFO]: [CustomRecipes] Enabling CustomRecipes v2.2.1-SNAPSHOT
+[12:03:32] [Server thread/INFO]: [Votifier] Enabling Votifier v1.9
+[12:03:32] [Server thread/ERROR]: [Votifier] Error initializing vote receiver. Please verify that the configured
+[12:03:32] [Server thread/ERROR]: [Votifier] IP address and port are not already in use. This is a common problem
+[12:03:32] [Server thread/ERROR]: [Votifier] with hosting services and, if so, you should check with your hosting provider.
+java.net.BindException: Cannot assign requested address (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method) ~[?:1.8.0_192]
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387) ~[?:1.8.0_192]
+	at java.net.ServerSocket.bind(ServerSocket.java:375) ~[?:1.8.0_192]
+	at java.net.ServerSocket.bind(ServerSocket.java:329) ~[?:1.8.0_192]
+	at com.vexsoftware.votifier.net.VoteReceiver.initialize(VoteReceiver.java:81) [votifier-1.9.jar:?]
+	at com.vexsoftware.votifier.net.VoteReceiver.<init>(VoteReceiver.java:75) [votifier-1.9.jar:?]
+	at com.vexsoftware.votifier.Votifier.onEnable(Votifier.java:172) [votifier-1.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:381) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:330) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at java.lang.Thread.run(Thread.java:813) [?:1.8.0_192]
+[12:03:32] [Server thread/ERROR]: [Votifier] Votifier did not initialize properly!
+[12:03:32] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b719
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: map_the_end
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_the_end
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: spawn
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_nether
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: flat
+[12:03:32] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:03:32] [Server thread/INFO]: -------- World Settings For [flatbuild] --------
+[12:03:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:03:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:03:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:03:32] [Server thread/INFO]: View Distance: 6
+[12:03:32] [Server thread/INFO]: Mob Spawn Range: 4
+[12:03:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:03:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:03:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:03:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:03:32] [Server thread/INFO]: Random Lighting Updates: false
+[12:03:32] [Server thread/INFO]: Structure Info Saving: true
+[12:03:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:03:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:03:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:03:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:03:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:03:32] [Server thread/INFO]: Max TNT Explosions: 100
+[12:03:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:03:32] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2017867430335099805)
+[12:03:33] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[12:03:33] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b719 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[12:03:33] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde) TNT ignition is PERMITTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde) Lighters are PERMITTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde) Lava fire is blocked.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde) Fire spread is UNRESTRICTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'monde'
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde_nether) TNT ignition is PERMITTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde_nether) Lighters are PERMITTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde_nether) Lava fire is blocked.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde_nether) Fire spread is UNRESTRICTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'monde_nether'
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde_the_end) TNT ignition is PERMITTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde_the_end) Lighters are PERMITTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde_the_end) Lava fire is blocked.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (monde_the_end) Fire spread is UNRESTRICTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'monde_the_end'
+[12:03:33] [Server thread/INFO]: [WorldGuard] (flatbuild) TNT ignition is PERMITTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (flatbuild) Lighters are PERMITTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (flatbuild) Lava fire is blocked.
+[12:03:33] [Server thread/INFO]: [WorldGuard] (flatbuild) Fire spread is UNRESTRICTED.
+[12:03:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'flatbuild'
+[12:03:33] [Server thread/INFO]: [WorldGuard] Loading region data...
+[12:03:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.3
+[12:03:33] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_12_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[12:03:33] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected [0;33;1mMultiverse-Core[0;32;1m! Using it for dimensions.[m
+[12:03:33] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:03:33] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:03:33] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:03:33] [Server thread/INFO]: [TAB] Enabling TAB v1.7.0
+[12:03:33] [Server thread/INFO]: [TAB] Enabled in 13ms
+[12:03:33] [Server thread/INFO]: [TAB] Original autor: NEZNAMY
+[12:03:33] [Server thread/INFO]: [TAB] New versions by Wisky987 | 1.6.4+
+[12:03:33] [Server thread/INFO]: [TAB] Please, if you have an issue use the Discussion page in TAB thread of Spigot forums
+[12:03:33] [Server thread/INFO]: [RandomBox] Enabling RandomBox v2.5.7
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 9901...
+[12:03:33] [Server thread/WARN]: [RandomBox] Invalid sound: No enum constant org.bukkit.Sound.EXPLODE
+[12:03:33] [Server thread/WARN]: [RandomBox] Invalid sound: No enum constant org.bukkit.Sound.CHEST_OPEN
+[12:03:33] [Server thread/WARN]: [RandomBox] Invalid sound: No enum constant org.bukkit.Sound.CLICK
+[12:03:33] [Server thread/WARN]: [RandomBox] Invalid sound: No enum constant org.bukkit.Sound.ANVIL_LAND
+[12:03:33] [Server thread/WARN]: [RandomBox] Invalid sound: No enum constant org.bukkit.Sound.CHEST_CLOSE
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 22...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 64...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 120...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 114...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 20...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 13...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 115...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 24...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 121...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 125...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 124...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 54...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 52...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 32...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 100...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 104...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 103...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 51...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 55...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 72...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 50...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 61...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 105...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 31...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 82...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 33...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 30...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 111...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 73...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 25...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 122...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 80...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 12...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 112...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 35...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 34...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 83...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 60...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 84...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 10...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 101...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 23...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 75...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 15...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 85...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 53...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 102...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 65...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 70...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 110...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 63...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 81...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 113...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 62...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 21...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 71...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 14...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 11...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 123...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 74...
+[12:03:33] [Server thread/INFO]: [RandomBox] Parsing box 1...
+[12:03:33] [Server thread/WARN]: [RandomBox] Drop item '§eBoîte de Fabricant VI'@items.item7: box '185' does not exist
+[12:03:33] [Server thread/INFO]: [RandomBox] 62 boxes has been loaded, time = 218 ms
+[12:03:33] [Server thread/INFO]: [RandomBox] NoCheatPlus not found
+[12:03:33] [Server thread/INFO]: [JSONAPI] Enabling JSONAPI v5.7.0
+[12:03:33] [Server thread/INFO]: [JSONAPI] Logging to file: false
+[12:03:33] [Server thread/INFO]: [JSONAPI] Logging to console: false
+[12:03:33] [Server thread/INFO]: [JSONAPI] IP Whitelist = None, all requests are allowed.
+[12:03:33] [Server thread/INFO]: [JSONAPI] Attempting to use port 31080
+[12:03:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.15.0.1
+[12:03:34] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[12:03:34] [Server thread/INFO]: No kits found to migrate.
+[12:03:34] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[12:03:34] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[12:03:34] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[12:03:34] [Server thread/INFO]: Using locale fr
+[12:03:34] [Server thread/INFO]: [Essentials] Using Spigot 1.7.10+ ServerListPingEvent iterator
+[12:03:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:03:34] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[12:03:34] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[12:03:34] [Server thread/INFO]: [GCore] Enabling GCore v7.9.1
+[12:03:34] [Server thread/INFO]: [0;35;1m[GCore] SUCCESS: Loaded config.yml[m
+[12:03:34] [Server thread/INFO]: [0;35;1m[GCore] SUCCESS: Using locale en_US (with default backup en_US)[m
+[12:03:34] [Server thread/INFO]: [0;35;1m[GCore] SUCCESS: Loaded 162 texts[m
+[12:03:34] [Server thread/INFO]: [0;35;1m[GCore] SUCCESS: Registered data manager (using JSON)[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Created npc protocols compatibility for version 1.12[m
+[12:03:34] [Server thread/INFO]: [0;35;1m[GCore] SUCCESS: Enabled NPC manager with ProtocolLib[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Allowing update check : true[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Detected server version : 1.12[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Detected server implementation : SPIGOT[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Created compatibility for version 1.12[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Initialized economy handler with Vault[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Initialized permission handler with Vault[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Not integrating HeadDatabase (not installed)[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Successfully enabled[m
+[12:03:34] [Server thread/INFO]: [0;35;22m[GCore] DEBUG: Using metrics : yes[m
+[12:03:34] [Server thread/INFO]: [0;35;1m[GCore] SUCCESS: GCore v7.9.1 is now enabled (took 205ms) ![m
+[12:03:34] [Server thread/INFO]: [MobArena] Enabling MobArena v0.102
+[12:03:34] [Server thread/INFO]: [MobArena] Vault found; economy rewards enabled.
+[12:03:34] [Server thread/INFO]: [MobArena] Loaded 3 sign templates.
+[12:03:34] [Server thread/INFO]: [MobArena] v0.102 enabled.
+[12:03:34] [Server thread/INFO]: [Jobs] Enabling Jobs v4.13.0
+[12:03:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 6 titles![m
+[12:03:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 49 protected blocks timers![m
+[12:03:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1000 custom item names![m
+[12:03:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 51 custom entity names![m
+[12:03:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 13 custom enchant names![m
+[12:03:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
+[12:03:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 35 custom potion names![m
+[12:03:36] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 10 jobs![m
+[12:03:36] [Server thread/INFO]: [0;33;1m[Jobs] Explorer job manager registered![m
+[12:03:36] [Server thread/INFO]: [0;33;1m[Jobs] Preloaded 4 players data in 0.0[m
+[12:03:36] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
+[12:03:36] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
+[12:03:36] [Server thread/INFO]: [0;33;1m[Jobs] WorldGuard detected.[m
+[12:03:36] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
+[12:03:36] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (468)[m
+[12:03:36] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled successfully.[m
+[12:03:36] [Server thread/INFO]: [PerWorldInventory] Enabling PerWorldInventory v2.1.0-legacy
+[12:03:36] [Server thread/INFO]: [ACF] Minecraft Version: 1.12
+[12:03:36] [Server thread/INFO]: [CreativeGates] Enabling CreativeGates v2.14.0
+[12:03:36] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.14.0[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[12:03:36] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.14.0[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m54ms[0;33;1m) ===[m
+[12:03:36] [Server thread/INFO]: [Holograms] Enabling Holograms v2.5.0-SNAPSHOT
+[12:03:36] [Server thread/INFO]: [Holograms] HologramEntityController set to: com.sainttx.holograms.nms.v1_12_R1.HologramEntityControllerImpl
+[12:03:36] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[12:03:36] [Server thread/INFO]: Creating file: config.yml
+[12:03:36] [Server thread/INFO]: Creating file: saves.yml
+[12:03:36] [Server thread/INFO]: [Quests] Enabling Quests v3.7.8-b16
+[12:03:37] [Server thread/INFO]: [Quests] Loaded language en-US. Translations via Crowdin
+[12:03:37] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.15.0.1
+[12:03:37] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.15.0.1
+[12:03:37] [Server thread/ERROR]: Échec de la lecture de la base de données GeoIP !
+com.maxmind.db.InvalidDatabaseException: Could not find a MaxMind DB metadata marker in this file (GeoIP2-Country.mmdb). Is this a valid MaxMind DB file?
+	at com.maxmind.db.Reader.findMetadataStart(Reader.java:227) ~[EssentialsXGeoIP-2.15.0.1.jar:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:87) ~[EssentialsXGeoIP-2.15.0.1.jar:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:80) ~[EssentialsXGeoIP-2.15.0.1.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:38) ~[EssentialsXGeoIP-2.15.0.1.jar:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:123) ~[EssentialsXGeoIP-2.15.0.1.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:154) [EssentialsXGeoIP-2.15.0.1.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:47) [EssentialsXGeoIP-2.15.0.1.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) [EssentialsXGeoIP-2.15.0.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:381) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:330) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at java.lang.Thread.run(Thread.java:813) [?:1.8.0_192]
+[12:03:37] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[12:03:37] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.15.0.1
+[12:03:37] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.15.0.1
+[12:03:37] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v8.0.0.0
+[12:03:37] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.15.0.1
+[12:03:37] [Server thread/INFO]: [CustomCommands] Enabling CustomCommands v3.1.3
+[12:03:37] [Server thread/INFO]: [0;35;1m[CustomCommands] SUCCESS: Loaded 6 texts[m
+[12:03:37] [Server thread/INFO]: [0;35;1m[CustomCommands] SUCCESS: Successfully loaded custom command spawn[m
+[12:03:37] [Server thread/INFO]: [0;35;1m[CustomCommands] SUCCESS: Successfully loaded custom command helpserver[m
+[12:03:37] [Server thread/INFO]: [0;35;1m[CustomCommands] SUCCESS: Successfully loaded custom command complex[m
+[12:03:37] [Server thread/INFO]: [0;35;1m[CustomCommands] SUCCESS: Registered data manager (using JSON)[m
+[12:03:37] [Server thread/INFO]: [0;35;22m[CustomCommands] DEBUG: Successfully enabled[m
+[12:03:37] [Server thread/INFO]: [0;35;22m[CustomCommands] DEBUG: Using metrics : yes[m
+[12:03:37] [Server thread/INFO]: [0;35;1m[CustomCommands] SUCCESS: CustomCommands v3.1.3 is now enabled (took 26ms) ! If you appreciate this plugin, you can support the author by rating the plugin 5-stars at www.spigotmc.org, being active on the community discord or share the plugin page to your friends ! [0;35;1m[21m3[m
+[12:03:37] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.4.0-b1877
+[12:03:37] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[12:03:37] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[12:03:37] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[12:03:37] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[12:03:37] [Thread-50/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[12:03:37] [Server thread/INFO]: [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[12:03:37] [Server thread/INFO]: [AuthMe] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12:03:37] [Server thread/INFO]: [AuthMe] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12:03:37] [Server thread/INFO]: [Factions] Enabling Factions v2.14.0
+[12:03:37] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.14.0[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[12:03:38] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.14.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationV18[m
+[12:03:38] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.14.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationV19[m
+[12:03:38] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.14.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationSpigot[m
+[12:03:38] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.14.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationWorldGuard[m
+[12:03:39] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.14.0[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m1330ms[0;33;1m) ===[m
+[12:03:39] [Server thread/INFO]: [ShopChest] Enabling ShopChest v1.12.3
+[12:03:39] [Server thread/INFO]: [ShopChest] Using SQLite
+[12:03:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:03:40] [Server thread/INFO]: Done (12.930s)! For help, type "help" or "?"
+[12:03:40] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
+[12:03:40] [Craft Scheduler Thread - 10/INFO]: [0;35;22m[GCore] DEBUG: Initialized StatisticsBoard for GDataManager (took 62 ms)[m
+[12:03:40] [Craft Scheduler Thread - 9/INFO]: [0;35;22m[GCore] DEBUG: Initialized DataProfileBoard for GDataManager (took 0 ms)[m
+[12:03:40] [Craft Scheduler Thread - 11/INFO]: [0;35;22m[GCore] DEBUG: Initialized UserBoard for GDataManager (took 3 ms)[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'PlaceholderAPI Compatibility v3'[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX - [0;36;1mPlaceholderAPI Compatibility[0;33;1m] [0;37;1mCould not find PlaceholderAPI or MVdWPlaceholderAPI! This expansion is useless.[m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'CrackShot Compatibility v3'[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX - [0;36;1mCrackShot Compatibility[0;33;1m] [0;37;1mCrackShot is not installed! This expansion is useless.[m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'WorldGuard Compatability v7'[m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'NotCombatLogX v7'[m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'Cheat Prevention v4'[m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'Towny Compatibility v4'[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX - [0;36;1mTowny Compatibility[0;33;1m] [0;37;1mTowny is not installed. This expansion is useless![m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'Citizens Compatibility v5'[m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'Notifier v3'[m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'Factions Compatibility v4'[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mAdding support for Factions...[m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'PreciousStones Compatability v3'[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX - [0;36;1mPreciousStones Compatability[0;33;1m] [0;37;1mPreciousStones is not installed. This expansion is useless![m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'Parties Compatibility v3'[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX - [0;36;1mParties Compatibility[0;33;1m] [0;37;1mParties is not installed. This expansion is useless![m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoading expansion 'Rewards v3'[m
+[12:03:40] [Server thread/INFO]: [21m[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mLoaded 12 expansions[m
+[12:03:40] [Server thread/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1m[0;32;22mEnabled[m
+[12:03:40] [Craft Scheduler Thread - 4/INFO]: [0;35;22m[CustomCommands] DEBUG: Initialized CCBoard for CCDataManager (took 0 ms)[m
+[12:03:40] [Craft Scheduler Thread - 5/INFO]: [0;35;22m[CustomCommands] DEBUG: Initialized UserBoard for CCDataManager (took 0 ms)[m
+[12:03:40] [Server thread/INFO]: [Holograms] Loaded hologram with "shop" with 1 lines
+[12:03:40] [Craft Scheduler Thread - 2/WARN]: [ShopChest] Plugin ShopChest v1.12.3 generated an exception while executing task 175
+java.lang.NullPointerException: null
+	at de.epiceric.shopchest.utils.UpdateChecker.check(UpdateChecker.java:43) ~[?:?]
+	at de.epiceric.shopchest.ShopChest$4.run(ShopChest.java:321) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [spigotmc-1.12.2-R0.1.jar:git-Spigot-642f6d2-57ab4cf]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_192]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_192]
+	at java.lang.Thread.run(Thread.java:813) [?:1.8.0_192]
+[12:03:40] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[12:03:40] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
+[12:03:40] [Craft Scheduler Thread - 0/INFO]: [0;35;22m[GCore] DEBUG: Loaded StatisticsBoard for GDataManager (took 1 ms)[m
+[12:03:40] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;37;1mCombatLogX[0;33;1m] [0;37;1mChecking for updates using Spigot API...[m
+[12:03:40] [Server thread/INFO]: [MobArena] MobArena v0.103.2 is now available!
+[12:03:40] [Server thread/INFO]: [MobArena] Your version: v0.102
+[12:03:40] [Craft Scheduler Thread - 4/INFO]: [0;35;22m[GCore] DEBUG: Loaded DataProfileBoard for GDataManager (took 9 ms)[m
+[12:03:40] [Craft Scheduler Thread - 4/INFO]: [0;35;22m[CustomCommands] DEBUG: Loaded CCBoard for CCDataManager (took 1 ms)[m
+[12:03:40] [Craft Scheduler Thread - 0/INFO]: [0;30;1m==============================================[m
+[12:03:40] [Craft Scheduler Thread - 0/INFO]: [0;33;1mCombatLogX Update Checker[m
+[12:03:40] [Craft Scheduler Thread - 0/INFO]:  [m
+[12:03:40] [Craft Scheduler Thread - 0/INFO]: [0;32;1mThere is an update available![m
+[12:03:40] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[21mLatest Version: [0;32;1m9.9.0.0[m
+[12:03:40] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[21mYour Version: [0;31;1m8.0.0.0[m
+[12:03:40] [Craft Scheduler Thread - 0/INFO]: [0;33;1mGet it here: [0;36;1mhttps://www.spigotmc.org/resources/combatlogx.31689/[m
+[12:03:40] [Craft Scheduler Thread - 0/INFO]: [0;30;1m==============================================[m
+[12:03:40] [Craft Scheduler Thread - 2/WARN]: [Vault] Stable Version: 1.7.2 is out! You are still running version: 1.5.6
+[12:03:40] [Craft Scheduler Thread - 2/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[12:03:41] [Server thread/INFO]: FiddleComputers[/193.56.171.199:53878] logged in with entity id 116 at ([monde]156.0, 64.0, 100.0)
+[12:03:41] [Server thread/INFO]: [ShopChest] Initialized 0 Shops
+[12:03:41] [Server thread/INFO]: [0;37;22mFiddleComputers [0;32;1mjoined.[m
+[12:03:41] [Craft Scheduler Thread - 14/INFO]: [AuthMe] The user FiddleComputers has 3 accounts:
+[12:03:41] [Craft Scheduler Thread - 14/INFO]: [AuthMe] §7tham_yerk, timdankmeme, §aFiddleComputers§7.
+[12:03:41] [Craft Scheduler Thread - 14/INFO]: [AuthMe] FiddleComputers logged in!
+[12:03:41] [Server thread/INFO]: [Quests] Loaded 4 Quest(s), 8 Event(s), 859 Phrase(s)
+[12:03:54] [LoginProcessingThread/INFO]: UUID of player Timdankmeme is 2fb398d5-5089-3f89-9855-42ecd25f760f
+[12:03:54] [Server thread/INFO]: Timdankmeme[/193.56.171.199:11736] logged in with entity id 1070 at ([monde]156.0, 64.0, 100.0)
+[12:03:55] [Server thread/INFO]: [0;37;22mTimdankmeme [0;32;1mjoined.[m
+[12:03:55] [Craft Scheduler Thread - 2/INFO]: [AuthMe] The user Timdankmeme has 3 accounts:
+[12:03:55] [Craft Scheduler Thread - 2/INFO]: [AuthMe] §7tham_yerk, §aTimdankmeme§7, §aFiddleComputers§7.
+[12:03:55] [Craft Scheduler Thread - 2/INFO]: [AuthMe] Timdankmeme logged in!
+[12:04:01] [Server thread/INFO]: Timdankmeme issued server command: /gm 1
+[12:04:01] [Server thread/WARN]: [PerWorldInventory] Creating a new group on the fly for 'monde'. Please double check your `worlds.yml` file configuration!
+[12:04:01] [Server thread/INFO]: FiddleComputers issued server command: /pl
+[12:04:06] [Server thread/INFO]: Timdankmeme issued server command: /help citizen
+[12:04:11] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> ok[m
+[12:04:15] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> bon[m
+[12:04:19] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> ça a l'air d'être bon[m
+[12:04:19] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> je te laisse build[m
+[12:04:27] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> quelle générosité[m
+[12:04:30] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> je regarde me tuto[m
+[12:04:31] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> et tout[m
+[12:04:35] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> tkt ça va être chiant aussi[m
+[12:04:44] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> faudra améliorer les remparts[m
+[12:04:47] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> genre mettre d'autre tours[m
+[12:04:49] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> et des portes[m
+[12:04:51] [Server thread/INFO]: Timdankmeme issued server command: /plugins
+[12:04:52] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> et ça je sais pas faire[m
+[12:04:56] [Server thread/INFO]: Timdankmeme issued server command: /help vault
+[12:05:02] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> mais c'est pas urgent[m
+[12:05:06] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> les portes tkt[m
+[12:05:06] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> c'est juste faudra le faire[m
+[12:05:13] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> c'est prêt[m
+[12:05:17] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> faudra juste les paste[m
+[12:05:20] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> je le ferais[m
+[12:05:20] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> vault c'est pas un vrai plugin pour ton info[m
+[12:05:26] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> okok[m
+[12:05:33] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> c'est un plugin qui permet aux autres plugins de communiqer entre eux[m
+[12:05:34] [Async Chat Thread - #0/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> c'est tout[m
+[12:05:46] [Server thread/INFO]: FiddleComputers issued server command: /help vault
+[12:06:30] [Server thread/INFO]: Timdankmeme issued server command: /npc create 1
+[12:06:35] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> slt[m
+[12:06:39] [Server thread/INFO]: Timdankmeme issued server command: /npc look
+[12:06:44] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> slt 1[m
+[12:06:46] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> ça va[m
+[12:06:54] [Server thread/INFO]: Timdankmeme issued server command: /quests editor
+[12:07:52] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> ca va[m
+[12:07:56] [Server thread/INFO]: FiddleComputers issued server command: /tp Timdankmeme
+[12:10:49] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> wtf[m
+[12:10:51] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> antonin[m
+[12:10:54] [Server thread/INFO]: FiddleComputers issued server command: /tp Timdankmeme
+[12:11:03] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> on peut faire des quetes que seuls des gardes peuvent avoir[m
+[12:11:12] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> des gardes ?[m
+[12:11:17] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> genre en mode faut avoir telle perm au minimum pour faire la quête[m
+[12:11:17] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> ha grades[m
+[12:11:18] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> oui[m
+[12:11:24] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> génial[m
+[12:11:26] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> on peut faire des dlc[m
+[12:11:28] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> absolumebt[m
+[12:11:44] [Server thread/INFO]: Timdankmeme issued server command: /quests
+[12:11:46] [Server thread/INFO]: Timdankmeme issued server command: /quests list
+[12:11:47] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> :^)[m
+[12:11:56] [Server thread/INFO]: Timdankmeme issued server command: /quests edit
+[12:12:03] [Server thread/INFO]: Timdankmeme issued server command: /quests editor
+[12:12:11] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> nan mais sérieux ce qui est bien c'est quand tu vas monter en grade tu vas avancer dans l'histoire[m
+[12:12:20] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> ça donne un sentiment de progression[m
+[12:12:29] [Server thread/INFO]: Timdankmeme issued server command: /msg FiddleComputers oui
+[12:12:37] [Server thread/INFO]: Timdankmeme issued server command: /r je ne peux te parler que comme ça
+[12:12:41] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> je sais[m
+[12:12:43] [Server thread/INFO]: Timdankmeme issued server command: /r quand j'edit une quete
+[12:12:46] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> j'ai deja fait des plugins dans le chat[m
+[12:12:48] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> merci timothée[m
+[12:15:34] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> t[m
+[12:15:50] [Server thread/INFO]: Timdankmeme issued server command: /r on peut faire des quêtes limitées dans le temps aussi
+[12:16:05] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> nice onglet event[m
+[12:16:06] [Server thread/INFO]: Timdankmeme issued server command: /r ça peut être pas mal pour des livraisons
+[12:16:14] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> aussi oui[m
+[12:16:30] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> mais tas un lore ou juste tu test là[m
+[12:19:08] [Server thread/INFO]: Timdankmeme issued server command: /questadmin reload
+[12:19:08] [Server thread/INFO]: [Quests] Loaded language en-US. Translations via Crowdin
+[12:19:17] [Server thread/INFO]: Title command successfully executed
+[12:19:17] [Server thread/INFO]: Title command successfully executed
+[12:19:23] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> ça mère[m
+[12:19:26] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> c'est trop bien[m
+[12:19:42] [Server thread/INFO]: Title command successfully executed
+[12:19:42] [Server thread/INFO]: Title command successfully executed
+[12:19:50] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> CA MARCHE TROP BIEN[m
+[12:20:02] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> viens voir[m
+[12:20:06] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> viens faire la quete[m
+[12:20:09] [Server thread/INFO]: FiddleComputers issued server command: /tp Timdankmeme
+[12:20:16] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> clique sur le pnj[m
+[12:20:32] [Server thread/INFO]: Title command successfully executed
+[12:20:32] [Server thread/INFO]: Title command successfully executed
+[12:20:51] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> faudra encore que je règle un truc[m
+[12:20:54] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> mais ça marche bien[m
+[12:20:58] [Server thread/INFO]: Title command successfully executed
+[12:20:58] [Server thread/INFO]: Title command successfully executed
+[12:21:04] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> en plus avec world guard[m
+[12:21:06] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> c'est TRES bien payé[m
+[12:21:15] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> je peux mettre une région où faire la quête[m
+[12:21:17] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> mais tkt[m
+[12:21:22] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> stylz[m
+[12:21:25] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> je vais edit la quête ou la supprimer[m
+[12:21:37] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> fais /quest editor[m
+[12:21:41] [Server thread/INFO]: FiddleComputers issued server command: /quest editor
+[12:21:46] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> quest not found[m
+[12:21:50] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> pour créer, modifier un supprimer une quête[m
+[12:21:55] [Server thread/INFO]: Timdankmeme issued server command: /quest reload
+[12:21:59] [Server thread/INFO]: FiddleComputers issued server command: /quest editor vaches
+[12:22:03] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> pardon[m
+[12:22:04] [Server thread/INFO]: FiddleComputers issued server command: /quest editor Vaches
+[12:22:05] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> c avec un s[m
+[12:22:08] [Server thread/INFO]: Timdankmeme issued server command: /quests editor
+[12:22:12] [Server thread/INFO]: FiddleComputers issued server command: /quests editor
+[12:22:22] [Server thread/INFO]: [Quests] Loaded language en-US. Translations via Crowdin
+[12:22:26] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> nice[m
+[12:22:30] [Async Chat Thread - #1/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> j'ai supprimé la quête là[m
+[12:22:36] [Server thread/INFO]: Timdankmeme issued server command: /npc
+[12:22:40] [Server thread/INFO]: Timdankmeme issued server command: /npc delete
+[12:22:43] [Server thread/INFO]: Timdankmeme issued server command: /npc select
+[12:22:49] [Server thread/INFO]: Timdankmeme issued server command: /npc help
+[12:23:08] [Server thread/INFO]: Timdankmeme issued server command: /npc help 2
+[12:23:14] [Server thread/INFO]: Timdankmeme issued server command: /npc help 3
+[12:23:24] [Server thread/INFO]: Timdankmeme issued server command: /npc help 4
+[12:23:29] [Server thread/INFO]: Timdankmeme issued server command: /npc help 5
+[12:23:38] [Server thread/INFO]: Timdankmeme issued server command: /npc help 6
+[12:23:45] [Server thread/INFO]: Timdankmeme issued server command: /npc despawn 0
+[12:23:53] [Server thread/INFO]: Timdankmeme issued server command: /npc spawn 0
+[12:24:01] [Server thread/INFO]: Timdankmeme issued server command: /npc help 7
+[12:24:06] [Server thread/INFO]: Timdankmeme issued server command: /npc help 8
+[12:24:32] [Server thread/INFO]: Timdankmeme issued server command: /npc size 10
+[12:24:39] [Server thread/INFO]: Timdankmeme issued server command: /npc size 1
+[12:24:45] [Server thread/INFO]: Timdankmeme issued server command: /npc type
+[12:24:47] [Server thread/INFO]: Timdankmeme issued server command: /npc type 10
+[12:24:51] [Server thread/INFO]: Timdankmeme issued server command: /npc type zombie
+[12:24:56] [Server thread/INFO]: Timdankmeme issued server command: /npc type cow
+[12:25:03] [Server thread/INFO]: Timdankmeme issued server command: /npc spawn
+[12:25:06] [Async Chat Thread - #2/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> slt[m
+[12:25:09] [Async Chat Thread - #2/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> sa va[m
+[12:25:14] [Server thread/INFO]: Timdankmeme issued server command: /npc type giant
+[12:25:20] [Server thread/INFO]: Timdankmeme issued server command: /npc spawn
+[12:25:22] [Server thread/INFO]: Timdankmeme issued server command: /npc spawn
+[12:25:24] [Server thread/INFO]: FiddleComputers issued server command: /tp Timdankmeme
+[12:25:28] [Server thread/INFO]: Timdankmeme issued server command: /npc spawn
+[12:25:36] [Server thread/INFO]: Timdankmeme issued server command: /npc type ocelot
+[12:25:38] [Server thread/INFO]: Timdankmeme issued server command: /npc spawn
+[12:25:48] [Server thread/INFO]: Timdankmeme issued server command: /npc type villager
+[12:25:58] [Server thread/INFO]: Timdankmeme issued server command: /npc type list
+[12:26:02] [Server thread/INFO]: Timdankmeme issued server command: /npc list
+[12:26:04] [Async Chat Thread - #2/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> 0[m
+[12:26:06] [Server thread/INFO]: FiddleComputers issued server command: //copy
+[12:26:08] [Server thread/INFO]: Timdankmeme issued server command: /npc select 0
+[12:26:10] [Server thread/INFO]: FiddleComputers issued server command: //rotate 180
+[12:26:11] [Server thread/INFO]: Timdankmeme issued server command: /npc deselect 0
+[12:26:17] [Server thread/INFO]: FiddleComputers issued server command: //paste
+[12:26:18] [Server thread/INFO]: Timdankmeme issued server command: /npc del
+[12:26:19] [Server thread/INFO]: FiddleComputers issued server command: //undo
+[12:26:21] [Server thread/INFO]: Timdankmeme issued server command: /npc sel
+[12:26:23] [Server thread/INFO]: FiddleComputers issued server command: //paste
+[12:26:29] [Server thread/INFO]: FiddleComputers issued server command: //undo
+[12:26:39] [Server thread/INFO]: FiddleComputers issued server command: //paste
+[12:26:42] [Server thread/INFO]: FiddleComputers issued server command: //undo
+[12:26:47] [Server thread/INFO]: FiddleComputers issued server command: //paste
+[12:26:56] [Server thread/INFO]: FiddleComputers issued server command: //paste
+[12:27:15] [Async Chat Thread - #3/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> elle est super stylée ma maison[m
+[12:27:17] [Server thread/INFO]: Timdankmeme issued server command: /npc vulnerable
+[12:27:33] [Server thread/INFO]: Timdankmeme issued server command: /npc spawn
+[12:27:41] [Server thread/INFO]: Timdankmeme issued server command: /npc spawn
+[12:27:47] [Server thread/INFO]: Timdankmeme issued server command: /npc kill
+[12:27:50] [Server thread/INFO]: Timdankmeme issued server command: /npc
+[12:27:53] [Server thread/INFO]: Timdankmeme issued server command: /npc help
+[12:28:03] [Server thread/INFO]: Timdankmeme issued server command: /npc metadate remove
+[12:28:07] [Server thread/INFO]: Timdankmeme issued server command: /npc metadata remove
+[12:28:16] [Server thread/INFO]: Timdankmeme issued server command: /npc name
+[12:28:19] [Server thread/INFO]: Timdankmeme issued server command: /npc name
+[12:28:32] [Server thread/INFO]: Timdankmeme issued server command: /npc remove
+[12:28:45] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> ok bon j'écris la story line[m
+[12:28:54] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> je sais utiliser le plugin mnt[m
+[12:28:58] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> faut que ça soit solide quand même[m
+[12:29:02] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> le tuto puait ça mère[m
+[12:29:04] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> oui[m
+[12:29:11] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> les quêtes sont stockées comment ?[m
+[12:29:18] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> en liste[m
+[12:29:19] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> bdd, fichier texte ?[m
+[12:29:28] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> que d'alle[m
+[12:29:33] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> timothée[m
+[12:29:39] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> elles sont forcément stockées quelque part[m
+[12:29:41] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> jsp du tout[m
+[12:29:45] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> c'est pas dit dans le tuto[m
+[12:29:51] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> le gars était autiste aussi[m
+[12:29:58] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> il écrit : réconpence[m
+[12:30:01] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> déjà[m
+[12:30:07] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> j'en sais rien[m
+[12:30:11] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> aie[m
+[12:30:20] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> en même temps regarde des tutos en anglais t'es maades[m
+[12:30:21] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> malade[m
+[12:30:24] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> oui[m
+[12:30:27] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> c'est vra[m
+[12:30:28] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> i[m
+[12:30:36] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> bon sinon c'est du texte[m
+[12:30:43] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> je devrais pouvoir le récupérer pour site assez facilement[m
+[12:30:43] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> "Il faut des requièrements"[m
+[12:30:49] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> logique[m
+[12:30:50] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> il disait ça ce chien[m
+[12:30:55] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> ok[m
+[12:31:17] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> bon du coup j'essaie de trouver une bonne histoire qui peut durer longtemps et qui tient la route[m
+[12:31:23] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> oui[m
+[12:31:41] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> va falloir faire plusieurs villes[m
+[12:31:42] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> et tout[m
+[12:31:46] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> damn[m
+[12:32:08] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> oui[m
+[12:32:12] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> mais ça va être bien[m
+[12:32:16] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> de fou[m
+[12:32:24] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> j'ai pas mal d'idée[m
+[12:32:25] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> donc worth si tu te motives un peu[m
+[12:32:30] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> s[m
+[12:32:33] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> mais quand les cours reprendront[m
+[12:32:36] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> je ferai que le code[m
+[12:32:44] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> je te le dis[m
+[12:32:48] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> ok[m
+[12:32:49] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> donc faudra que tu trouves des gens[m
+[12:32:53] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> pour t'aier[m
+[12:32:54] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> aider*[m
+[12:32:54] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> louis sera là déjà[m
+[12:33:05] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> oui[m
+[12:33:14] [Async Chat Thread - #4/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> de toute façon on jouera surtout le weekend je pense[m
+[12:34:47] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> mon dieu je réalise à quel point j'ai encore énormément de code à faire[m
+[12:34:56] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> si je veux lier complètement site et serveur[m
+[12:34:58] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> on est au début là[m
+[12:35:08] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> en même temps[m
+[12:35:38] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> oui mais quand même[m
+[12:35:42] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> je pense de toute façon qu'on va pas sortir le serveur tout fait en entier[m
+[12:35:48] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> non bien sur[m
+[12:35:50] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> c'est bien de faire des patchs et tout[m
+[12:35:55] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> les gens restent[m
+[12:36:02] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> ils doivent attendre pour tryhard[m
+[12:36:11] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> par contre ce que j'ai pas test[m
+[12:36:12] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> je vais un github pour le source code du serveur[m
+[12:36:14] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> c'est les boss[m
+[12:36:16] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> j'en ai déj un peu le site[m
+[12:36:18] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> ok[m
+[12:36:57] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;1m[ADMIN] [0;31;22mTimdankmeme[m> faudra trouver où placer ulfric dans l'histoire quand même[m
+[12:37:10] [Async Chat Thread - #5/INFO]: <[0;32;1m[21m[m[0;32;1m[0;37;1m[0;31;22m[21m[FONDA-DEV] [0;31;22mFiddle[m> oui kllloooll[m

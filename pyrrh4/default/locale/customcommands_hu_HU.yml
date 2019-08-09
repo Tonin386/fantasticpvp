@@ -1,0 +1,14 @@
+# Locale : hu_HU
+ 
+# Messages
+ 
+messages:
+  error_number: '&4CustomCommands >> &c''$ERROR'' nem érvényes szám !'
+  error_length: '&4CustomCommands >> &c''$ERROR'' meghaladja a megengedett méreteket !'
+  error_alphanumeric: '&4CustomCommands >> &c''$ERROR'' nem alfanumerikus név.'
+  error_target: '&4CustomCommands >> &cA játékos ''$PLAYER'' nem található.'
+  error_usage: '&4CustomCommands >> &cEzzel most a parancsot kell használnod ! Használat : $USAGE'
+  error_name_taken: '&4CustomCommands >> &cEz a név már megtörtént !'
+  item_saved: '&2CustomCommands >> &aEz az elem mentett névvel ''$NAME'' !'
+  location_saved: '&2CustomCommands >> &aEz a hely neve mentett el ''$NAME'' !'
+  world_blocked: '&4CustomCommands >> &cEz a parancs nem engedélyezett ebben a világban !'

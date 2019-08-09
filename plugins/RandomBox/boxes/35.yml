@@ -1,0 +1,72 @@
+boxName: '&6Constructeur VI'
+
+boxItem: BRICK
+
+lore:
+- '&eUne boîte obtenue'
+- '&epar un Constructeur VI'
+- '&7--------------'
+- 'items 0 &7%ordinal%. &ex%amount% %name%'
+- '&7--------------'
+- '&eBoîte rare'
+
+checkPermission: false
+
+openWhenClicked: true
+
+addGlow: true
+
+unstackable: false
+
+gui:
+  enabled: true
+  rolling:
+  - {delay: 1, iterations: 50}
+  - {delay: 2, iterations: 20}
+  - {delay: 3, iterations: 10}
+  - {delay: 4, iterations: 5}
+  window:
+    type: CHEST
+    format:
+    - '#@@@@@@@#'
+    - 'AbcdefghI'
+    - '#@@@@@@@#'
+    fillers:
+      '@':
+        item: {id: 160, data: 15, delay: 20}
+        onStop:
+          item: {id: 0}
+      '#':
+        animated:
+        - {id: 160, data: 4, delay: 10}
+        - {id: 160, data: 5, delay: 10}
+
+effects:
+  open:
+    broadcast: '&b%player% &eouvre une &aBoîte du Constructeur VI &e!'
+
+itemsToSelectCount: 3
+
+items:
+  item1:
+    item: 155
+    data: 0
+    name: 'Bloc de quartz'
+    amount: 64
+    chance: 10
+  item2:
+    item: OBSIDIAN
+    amount: 64
+    name: 'Obsidienne'
+    chance: 10
+  item3:
+    item: BRICK
+    amount: 64
+    name: 'Briques'
+    chance: 10
+  item4:
+    item: 98
+    data: 0
+    name: 'Pierre taillée'
+    amount: 64
+    chance: 10

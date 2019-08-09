@@ -1,0 +1,48 @@
+lastAccountName: FiddleComputers
+timestamps:
+  login: 1565352221292
+  logout: 1565296805973
+  kits:
+    mineuri: 1565263652052
+    citoyen: 1565263629641
+  lastteleport: 1565353524590
+ipAddress: 193.56.171.199
+afk: false
+nickname: Fiddle
+logoutlocation:
+  world: monde
+  x: 215.14164490905313
+  y: 82.4666200837953
+  z: -65.76423543897997
+  yaw: -84.12744
+  pitch: 73.65
+lastlocation:
+  world: monde
+  x: 230.58509631496597
+  y: 75.2529138670612
+  z: -92.6198816566008
+  yaw: 18.961666
+  pitch: 15.6167965
+money: '744.9099999999999950'
+homes:
+  home:
+    world: monde
+    x: 250.42664034426872
+    y: 66.0
+    z: -78.12649281812801
+    yaw: 48.23526
+    pitch: 64.949814
+  spzwn_build_1:
+    world: monde
+    x: 250.42664034426872
+    y: 66.0
+    z: -78.12649281812801
+    yaw: 48.23526
+    pitch: 64.949814
+  build1:
+    world: flatbuild
+    x: 319.1260941874431
+    y: 4.0
+    z: -665.1969880204239
+    yaw: -3.5999923
+    pitch: -7.9499984

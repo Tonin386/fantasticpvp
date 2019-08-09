@@ -1,0 +1,22 @@
+lastAccountName: Timdankmeme
+timestamps:
+  login: 1565352234975
+  logout: 1565283444759
+  lastteleport: 1565350506803
+ipAddress: 193.56.171.199
+logoutlocation:
+  world: flatbuild
+  x: 512.2972307267014
+  y: 29.42039149268444
+  z: -652.32851459159
+  yaw: 166.53423
+  pitch: 17.397854
+lastlocation:
+  world: flatbuild
+  x: 319.5473130051867
+  y: 30.491879282553832
+  z: -686.3486343367491
+  yaw: 243.15959
+  pitch: 24.35966
+money: '135.9400000000000005'
+afk: false

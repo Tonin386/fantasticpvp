@@ -1,0 +1,12 @@
+options:
+  forcefield:
+    material: STAINED_GLASS:14
+    size: 5
+    enabled: true
+  safezones:
+    no entry: true
+    mode: KNOCKBACK
+    knockback strength: 5.0
+  disabled worlds:
+  - disabled_world_1
+  - disabled_world_2

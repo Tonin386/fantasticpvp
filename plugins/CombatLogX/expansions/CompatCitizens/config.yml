@@ -1,0 +1,6 @@
+options:
+  npc:
+    entity type: PLAYER
+    survival time: 300
+    use sentinel: false
+  modify inventories: false
